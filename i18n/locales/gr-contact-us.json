@@ -1,0 +1,39 @@
+{
+  "appHeader": {
+    "title": "Kontaktieren Sie uns",
+    "description": "Haben Sie eine Anfrage? Wir helfen Ihnen gerne — Lassen Sie uns in Kontakt treten!"
+  },
+  "contactForm": {
+    "title1": "Senden Sie uns",
+    "title2": "Anfrage",
+    "formTitle": "Kontaktinformationen",
+    "description": "Bereit, Ihr nächstes Wüstenabenteuer zu buchen oder haben Sie Fragen, bevor Sie losfahren? Unser Team ist für Sie da! Ob Sie eine Solo-Reise, einen Gruppenausflug planen oder einfach nur das beste Offroad-Erlebnis suchen – wir freuen uns, von Ihnen zu hören. Kontaktieren Sie uns für Buchungen, Anfragen oder maßgeschneiderte Pakete – und lassen Sie uns gemeinsam unvergessliche Momente in den Dünen schaffen.",
+    "reservationNumberLabel": "Reservierungsnummern",
+    "InquiryLabel": "Allgemeine Anfrage",
+    "locationLabel": "Hauptbetriebsstandort",
+    "location": "Dubai-Hatta Road, Al Badayer, Industrial 1, Sharjah, Vereinigte Arabische Emirate",
+    "socialLinksLabel": "Unsere sozialen Netzwerke",
+    "firstNamePlaceHolder": "Ihr Vorname",
+    "lastNamePlaceHolder": "Ihr Nachname",
+    "emailPlaceHolder": "E-Mail eingeben",
+    "phoneNoPlaceHolder": "Telefonnummer eingeben",
+    "typeOfInquiry": {
+      "typeOfInquiry": "Art der Anfrage",
+      "generalInquiry": "Allgemeine Anfrage",
+      "bookingRequest": "Buchungsanfrage",
+      "groupCorporateBooking": "Gruppen-/Firmenbuchung",
+      "eventPlanning": "Eventplanung",
+      "complaintOrFeedback": "Beschwerde oder Feedback",
+      "lostAndFound": "Verloren & Gefunden",
+      "pickupAndDropoffService": "Abhol- und Bringservice",
+      "safetyAndRequirements": "Sicherheit & Anforderungen",
+      "cancellationOrRescheduling": "Stornierung oder Umbuchung",
+      "paymentAndBillingQuestions": "Fragen zu Zahlung & Abrechnung",
+      "locationAndDirectionsHelp": "Hilfe bei Anfahrt & Wegbeschreibung"
+    },
+    "messagePlaceHolder": "Geben Sie Ihre Nachricht ein",
+    "submitButton": "Absenden",
+    "submitting": "Wird gesendet...",
+    "error": "Bitte geben Sie eine gültige Telefonnummer ein"
+  }
+}

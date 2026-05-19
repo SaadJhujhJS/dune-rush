@@ -1,0 +1,353 @@
+{
+    "blogs": {
+        "title": "Blogs",
+        "description": "Restez informé avec nos derniers articles, idées et récits. Plongez dans notre blog pour de nouvelles perspectives et de l'inspiration.",
+        "mainTitle": "Lisez les dernières nouvelles de",
+        "ourBlog": "Notre blog",
+        "loadMore": "Charger plus"
+    },
+    "blog1": {
+        "title": "Conduite de quad dans le désert",
+        "description": "Top 5 des raisons pour lesquelles conduire un quad dans le désert est l'aventure ultime.",
+        "dateTime": "01 juillet 2025 · Lecture de 5 minutes"
+    },
+    "blog2": {
+        "title": "Tour en buggy dans le désert",
+        "description": "Les choses essentielles à savoir avant de réserver un tour en buggy dans le désert.",
+        "dateTime": "01 juillet 2025 · Lecture de 5 minutes"
+    },
+    "blog3": {
+        "title": "Aventure dans le désert pour débutants",
+        "description": "Aventure dans le désert pour débutants : pas d'expérience ? Aucun problème !",
+        "dateTime": "01 juillet 2025 · Lecture de 5 minutes"
+    },
+    "blog4": {
+        "title": "Quad vs. Moto tout-terrain",
+        "description": "Quad vs. Moto tout-terrain : quelle activité dans le désert est faite pour vous ?",
+        "dateTime": "23 juillet 2025 · Lecture de 5 minutes"
+    },
+    "atvAdventure": {
+        "title": "Top 5 raisons de faire du",
+        "titleBold": "quad dans le désert",
+        "titleLeft": "pour une aventure ultime",
+        "intro": {
+            "paragraph1": "Si vous recherchez une expérience mêlant sensations fortes, liberté et beauté brute de la nature — ne cherchez pas plus loin que",
+            "paragraph2": "Que vous soyez un amateur d'adrénaline ou un débutant en quête de nouveauté,",
+            "paragraph3": "une échappée unique au quotidien.",
+            "highlight1": "faire du quad dans le désert",
+            "highlight2": "le quad dans le désert offre",
+            "hereAre": "Voici",
+            "whyHoping": "pourquoi monter sur un quad dans le désert est",
+            "highlight3": "les 5 meilleures raisons",
+            "highlight4": "l'aventure ultime"
+        },
+        "reason1": {
+            "title": "1. Sensations fortes",
+            "titleNext": "inégalées",
+            "paragraph1": "Peu de choses égalent le frisson de faire rugir un puissant quad sur les dunes dorées. Le fait de franchir des pentes abruptes, de négocier des virages serrés et de traverser le désert procure une véritable sensation de",
+            "highlight1": "liberté et d’excitation",
+            "paragraph1Next": "que les activités urbaines ne peuvent égaler.",
+            "paragraph2": "Que vous conduisiez un",
+            "paragraph2Next": "ou un puissant",
+            "highlight2": "quad 320cc",
+            "highlight3": "450cc",
+            "remaining": ", le frisson est garanti."
+        },
+        "reason2": {
+            "title": "2. Explorer la nature",
+            "titleNext": "comme jamais auparavant",
+            "highlight1": "explorer des endroits inaccessibles en voiture",
+            "paragraph1": "Le désert, ce n’est pas que du sable — c’est un paysage vivant avec des vues époustouflantes, des dunes changeantes et des horizons sans fin. Faire du quad vous permet de sortir des sentiers battus et de",
+            "paragraph1Remaining": ", vous connectant pleinement à la beauté sauvage qui vous entoure.",
+            "paragraph2": "Vous pourriez même apercevoir un renard du désert ou un chameau au loin pendant votre balade."
+        },
+        "reason3": {
+            "title": "3. Parfait pour tous",
+            "titleNext": "les niveaux",
+            "paragraph1": "Que vous soyez un",
+            "paragraph1Next": "ou un habitué du tout-terrain, il existe un quad adapté à votre niveau. Des",
+            "paragraph1Remaining": "pour une prise en main facile aux machines puissantes pour les pros, la location de quads s’adapte à tous les niveaux.",
+            "paragraph2": "Des guides professionnels fournissent",
+            "paragraph2Remaining": "et l’équipement pour que votre balade soit à la fois amusante et sécurisée.",
+            "highlight1": "grand débutant",
+            "highlight2": "modèles automatiques",
+            "highlight3": "briefings de sécurité"
+        },
+        "reason4": {
+            "title": "4. Activité de groupe",
+            "titleNext": "idéale",
+            "paragraph1": "Faire du quad n’est pas seulement une aventure en solo — c’est aussi une",
+            "paragraph1Next": "Que vous soyez entre amis, en famille ou entre collègues, rouler ensemble dans le désert crée des souvenirs inoubliables. Associez votre balade en quad à d'autres activités comme",
+            "paragraph1Remaining": "pour une expérience complète dans le désert.",
+            "highlight1": "activité de groupe géniale",
+            "highlight2": "buggies, balades en moto cross ou à dos de chameau"
+        },
+        "reason5": {
+            "title": "5. Moments dignes",
+            "titleNext": "d’Instagram",
+            "paragraph1": "Soyons honnêtes — rien ne vaut une photo de vous en train de chevaucher un quad au coucher du soleil avec le sable qui vole derrière vous. Le désert offre le décor parfait pour",
+            "paragraph1Remaining": "que vous voudrez partager. Capturez l’action et le paysage, et laissez vos abonnés ressentir la chaleur !",
+            "highlight1": "des photos et vidéos épiques"
+        },
+        "cta": {
+            "title": "Prêt à",
+            "titleBold": "rouler ?",
+            "paragraph1": "Que vous soyez de passage ou habitiez à proximité, les",
+            "paragraph1Remaining": "sont le moyen idéal de sortir de la routine. Avec des options de location flexibles, du matériel de sécurité fourni et une équipe expérimentée sur place, il n’a jamais été aussi facile de commencer votre aventure hors route.",
+            "paragraph2": "et transformez le désert en votre terrain de jeu.",
+            "highlight1": "balades en quad dans le désert",
+            "highlight2": "Réservez votre aventure en quad dès aujourd’hui"
+        }
+    },
+    "atvVsDirtBike": {
+        "titleBold": "Quad vs. Moto Cross :",
+        "title": " Quelle aventure dans le désert est faite pour vous ?",
+        "boldWord1": "Quad",
+        "orA": "ou une",
+        "boldWord2": "Moto Cross ?",
+        "intro1": "Prêt à conquérir le désert mais vous ne savez pas si vous devez choisir un",
+        "remainingIntro1": "Vous n'êtes pas seul. Les deux offrent des sensations fortes, mais l’expérience, le contrôle et la sensation sont très différentes.",
+        "intro2": {
+            "text": "Que vous soyez débutant ou habitué, ce guide vous aidera à choisir l’aventure désertique qui vous convient —",
+            "highlight": "Quad ou Moto Cross"
+        },
+        "sections": {
+            "difference": {
+                "title": "Quelle est la",
+                "titleBold": "Différence ?",
+                "letsBreak": "Voyons ça simplement :",
+                "atv": "Quad ",
+                "atvBold": "(Véhicule Tout-Terrain)",
+                "point1": "Quatre roues",
+                "point2": "Stable et facile à conduire",
+                "point3": "Idéal pour les débutants et les sorties en groupe",
+                "dirtBike": "Moto ",
+                "dirtBikeBold": "Cross :",
+                "point4": "Deux roues",
+                "point5": "Léger et agile",
+                "point6": "Parfait pour les amateurs de sensations fortes et les pilotes expérimentés",
+                "note": "Les deux sont faits pour l'off-road — mais vos préférences et votre niveau de confort font toute la différence."
+            },
+            "controlStability": {
+                "title": "1. Contrôle ",
+                "titleBold": "et Stabilité",
+                "atv": "Quad :",
+                "dirtBike": "Moto",
+                "dirtBikeBold": "Cross :",
+                "atvNote": "Offre un meilleur équilibre et est plus tolérant sur les terrains difficiles. Idéal pour les débutants ou une balade détendue avec plus de contrôle.",
+                "dirtBikeNote": "Demande plus de technique et d’équilibre. Idéal si vous êtes habitué aux deux-roues et souhaitez une maniabilité accrue sur les dunes.",
+                "tips": {
+                    "atv": "Quad :",
+                    "dirtBike": "Moto",
+                    "dirtBikeBold": "Cross :",
+                    "atvNote": "Choisissez le quad pour plus de facilité.",
+                    "dirtBikeNote": "Choisissez la moto cross si vous aimez le contrôle total et les défis."
+                }
+            },
+            "skillLevel": {
+                "title": "2. Niveau de compétence ",
+                "titleBold": "et Courbe d’apprentissage",
+                "atv": "Quad :",
+                "dirtBike": "Moto ",
+                "dirtBikeBold": "Cross :",
+                "atvNote": "Facile à apprendre. Même les débutants peuvent rouler confortablement après un court briefing.",
+                "dirtBikeNote": "Nécessite de la pratique. Ce n’est pas juste de l’accélération — il faut gérer l’équilibre, la posture et le contrôle corporel.",
+                "tips": {
+                    "atv": "Quad :",
+                    "dirtBike": "Moto Cross :",
+                    "atvNote": "Les débutants devraient commencer par le quad.",
+                    "dirtBikeNote": "Choisissez la moto cross si vous aimez le contrôle total et relever des défis."
+                }
+            },
+            "terrainHandling": {
+                "title": "3. Maîtrise du ",
+                "titleBold": "Terrain",
+                "atv": "Quad :",
+                "dirtBike": "Moto ",
+                "dirtBikeBold": "Cross :",
+                "atvNote": "Parfaitement adapté aux dunes de sable avec stabilité et puissance. Idéal pour les safaris, les balades panoramiques et les sorties en groupe.",
+                "dirtBikeNote": "Idéal pour les dunes raides, les virages rapides et les pistes techniques. Parfait si vous aimez les défis.",
+                "tips": {
+                    "atv": "Quad :",
+                    "dirtBike": "Moto Cross :",
+                    "atvNote": "Les quads dominent pour le confort et les longues balades.",
+                    "dirtBikeNote": "Les motos cross règnent sur les parcours techniques et rapides."
+                }
+            },
+            "safetyComfort": {
+                "title": "4. Sécurité ",
+                "titleBold": "et Confort",
+                "atv": "Quad :",
+                "dirtBike": "Moto ",
+                "dirtBikeBold": "Cross :",
+                "atvNote": "Plus sûr pour les familles et les groupes. Les quatre roues réduisent le risque de basculement.",
+                "dirtBikeNote": "Offre une expérience brute et excitante mais avec plus de risques si mal maîtrisée.",
+                "tips": {
+                    "atv": "Quad :",
+                    "dirtBike": "Moto Cross :",
+                    "atvNote": "Pour une balade plus sûre et fluide — optez pour le quad.",
+                    "dirtBikeNote": "Pour l’adrénaline à grande vitesse — optez pour la moto cross (avec équipement complet)."
+                }
+            },
+            "soloOrGroup": {
+                "title": "5. En solo ou ",
+                "titleBold": "en groupe ?",
+                "atv": "Quad :",
+                "dirtBike": "Moto ",
+                "dirtBikeBold": "Cross :",
+                "atvNote": "Disponible en différentes tailles (1 ou 2 places) — idéal pour les couples ou les balades parent-enfant.",
+                "dirtBikeNote": "Toujours en solo — une expérience plus individuelle.",
+                "tips": {
+                    "atv": "Quad :",
+                    "dirtBike": "Moto Cross :",
+                    "atvNote": "Envie de partager la balade ? Choisissez un quad.",
+                    "dirtBikeNote": "Envie de liberté et de conduite en solo ? Choisissez une moto cross."
+                }
+            },
+            "verdict": {
+                "title": "Verdict ",
+                "titleBold": "Final",
+                "conclusion1": "Il n’y a pas de mauvais choix — seulement celui qui correspond à votre style. Que vous optiez pour la puissance brute d’un quad ou l’intensité d’une moto cross, une chose est sûre : votre aventure dans le désert sera inoubliable.",
+                "conclusion2": {
+                    "text": "Choisissez votre style, réservez votre balade et laissez le frisson commencer !",
+                    "highlight": "Prêt à rouler ?"
+                }
+            }
+        }
+    },
+    "buggyTour": {
+        "title": "Principaux points à connaître avant de réserver",
+        "titleBold": "une excursion en buggy dans le désert",
+        "letterA": "Une",
+        "description": "est l’une des façons les plus palpitantes d’explorer le côté sauvage du désert. Avec des moteurs puissants, des terrains accidentés et des dunes infinies, c’est une expérience mêlant vitesse, aventure et beauté naturelle dans une balade inoubliable.",
+        "descriptionBold": "excursion en buggy dans le désert",
+        "butBefore": "Mais avant de vous attacher et d’appuyer sur l’accélérateur, voici les",
+        "topThings": "choses essentielles à savoir",
+        "make": "pour profiter au maximum de votre aventure en buggy.",
+        "section1": {
+            "title": "1. Choisissez le bon buggy pour",
+            "titleBold": "votre groupe",
+            "paragraph1": "Les buggys du désert existent en différentes tailles et puissances. Avant de réserver, déterminez ce qui correspond le mieux à vos besoins :",
+            "list": {
+                "item1": "Monoplace – Pour les conducteurs en solo souhaitant un contrôle total",
+                "item2": "Biplace – Idéal pour les couples ou un conducteur + un passager",
+                "item3": "4 ou 6 places – Parfait pour les familles ou les groupes"
+            },
+            "paragraph2": "La puissance du moteur compte aussi ! De 800cc pour une balade douce à 1000cc ou 2000cc pour les amateurs de sensations — choisissez selon votre niveau d’expérience et votre envie d’adrénaline."
+        },
+        "section2": {
+            "title": "2. Vous n’avez pas besoin",
+            "titleBold": "d’être un pro",
+            "paragraph1": "La plupart des excursions en buggy sont accessibles aux débutants. Même si vous n’avez jamais conduit en tout-terrain, pas de panique — les boîtes automatiques, les consignes de sécurité et les itinéraires guidés rendent l’aventure facile pour tous.",
+            "paragraph2": "Assurez-vous tout de même d’avoir 18 ans ou plus et une compréhension de base de la conduite."
+        },
+        "section3": {
+            "title": "3. L’équipement de sécurité",
+            "titleBold": "est indispensable",
+            "paragraph1": "Les opérateurs sérieux fournissent toujours des casques, ceintures et équipements de sécurité — c’est non négociable. Assurez-vous que le prestataire inclut :",
+            "list": {
+                "item1": "Casque et protection pour les yeux",
+                "item2": "Ceintures de sécurité rembourrées",
+                "item3": "Briefing sécurité avant le départ"
+            },
+            "paragraph2": "Votre sécurité doit toujours être la priorité, surtout sur terrain accidenté à grande vitesse."
+        },
+        "section4": {
+            "title": "4. Habillez-vous pour",
+            "titleBold": "le désert",
+            "paragraph1": "Le désert peut être chaud, venteux et poussiéreux. Portez donc :",
+            "list": {
+                "item1": "Vêtements confortables (manches longues recommandées)",
+                "item2": "Lunettes de soleil ou lunettes de protection",
+                "item3": "Chaussures fermées (pas de sandales)",
+                "item4": "Crème solaire et protection du visage (foulard/buff)"
+            },
+            "paragraph2": "Ce n’est pas qu’une question de confort — un bon équipement vous protège du sable et du soleil."
+        },
+        "section5": {
+            "title": "5. Réserver à l’avance = ",
+            "titleBold": "meilleures offres",
+            "paragraph1": "Les excursions en buggy sont très prisées — surtout les week-ends et jours fériés. Réserver à l’avance vous garantit :",
+            "list": {
+                "item1": "Meilleurs créneaux disponibles",
+                "item2": "Accès aux modèles premium de buggy",
+                "item3": "Réductions pour les groupes",
+                "item4": "Enregistrement plus rapide à l’arrivée"
+            },
+            "paragraph2": "Vous pouvez aussi combiner votre balade en buggy avec d’autres activités comme la location de quad ou une promenade à dos de chameau pour vivre l’expérience désertique complète."
+        },
+        "cta": {
+            "title": "Prêt à affronter",
+            "titleBold": "les dunes ?",
+            "paragraph1": "Une sortie en buggy dans le désert n’est pas juste une balade — c’est une aventure pleine de puissance au cœur du plus grand terrain de jeu naturel. Avec la bonne préparation, votre expérience sera sûre, excitante et inoubliable.",
+            "paragraph2": "et préparez-vous à libérer votre côté sauvage sur le sable !",
+            "bookNow": "Réservez votre excursion en buggy dès aujourd’hui"
+        }
+    },
+    "beginnerDesertAdventure": {
+        "titleBold": "Aventure dans le désert pour débutants :",
+        "title": " Aucune expérience ? Aucun problème !",
+        "intro": {
+            "paragraph1": "Vous pensez que les aventures dans le désert sont réservées aux amateurs de sensations fortes expérimentés ? Détrompez-vous ! Que vous n’ayez jamais touché un quad ou que vous n’ayez aucune expérience tout-terrain, le désert est accessible à tous — même aux grands débutants.",
+            "paragraph2": "Avec la bonne guidance, le bon équipement et des activités adaptées aux débutants,",
+            "highlight1": "votre première aventure dans le désert peut être sûre, passionnante et inoubliable"
+        },
+        "section1": {
+            "title": "1. Pas de permis ?",
+            "titleBold": "Aucun problème !",
+            "paragraph1": "La plupart des activités dans le désert ne nécessitent ni permis de conduire ni expérience préalable. Des quads et buggys aux karts et balades à dos de chameau, tout est accessible sous supervision — même si c’est votre première fois.",
+            "paragraph2": "Des instructeurs professionnels vous guideront étape par étape."
+        },
+        "section2": {
+            "title": "2. Des véhicules adaptés",
+            "titleBold": "aux débutants",
+            "paragraph1": "Vous avez peur de devoir manier une machine lourde ? Pas d’inquiétude. Il existe de nombreuses options adaptées aux débutants, telles que :",
+            "list": {
+                "item1": "Quads automatiques (150cc–320cc) – Faciles à contrôler et sûrs",
+                "item2": "Buggys 2 places – Confortables avec des itinéraires guidés",
+                "item3": "Quads pour enfants et niveau débutant – Plus légers, vitesse réduite, plus stables"
+            },
+            "paragraph2": "Chaque véhicule est conçu pour vous mettre en confiance, même si vous n’avez jamais conduit auparavant."
+        },
+        "section3": {
+            "title": "3. Équipement de sécurité & formation",
+            "titleBold": "toujours inclus",
+            "paragraph1": "Avant chaque activité, vous recevrez :",
+            "list": {
+                "item1": "Casque et équipement de protection",
+                "item2": "Briefing de sécurité sur les commandes du véhicule et les règles de conduite dans le désert",
+                "item3": "Assistance continue de la part de superviseurs formés"
+            },
+            "paragraph2": "Vous ne serez jamais seul — le soutien est toujours à portée de main, pour une expérience sans stress."
+        },
+        "section4": {
+            "title": "4. Choisissez votre",
+            "titleBold": "niveau de confort",
+            "paragraph1": "Que vous préfériez une balade tranquille à dos de chameau, un tour en buggy panoramique ou une session douce en quad, il y a une activité pour chaque niveau. Commencez doucement et progressez à votre rythme en gagnant en confiance.",
+            "paragraph2": "Parmi les choix populaires pour débutants :",
+            "list": {
+                "item1": "Balades en quad de 30 minutes",
+                "item2": "Buggys automatiques 2 places"
+            }
+        },
+        "section5": {
+            "title": "5. Ce n’est pas que",
+            "titleBold": "de la conduite",
+            "paragraph1": "Une aventure dans le désert ne se résume pas aux véhicules — c’est une expérience de plein air complète. Vous profiterez de :",
+            "list": {
+                "item1": "Paysages désertiques à couper le souffle",
+                "item2": "Opportunités photo au coucher du soleil",
+                "item3": "Air pur et vastes espaces",
+                "item4": "Moments de complicité en famille ou entre amis"
+            },
+            "paragraph2": "Même en tant que débutant, vous repartirez en vous sentant comme un vrai explorateur."
+        },
+        "cta": {
+            "title": "Prêt pour votre",
+            "titleBold": "première balade ?",
+            "paragraph1": "Vous n’avez pas besoin d’être expérimenté — seulement prêt à vous amuser. Avec des options pour débutants, un encadrement professionnel et une sécurité optimale, votre première aventure dans le désert vous attend.",
+            "paragraph2": "et transformez votre première fois en souvenir inoubliable !",
+            "bookNow": "Réservez maintenant"
+        }
+    }
+}

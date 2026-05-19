@@ -1,0 +1,45 @@
+{
+    "faqs": {
+        "title": "FAQs",
+        "description": "Starte dein Abenteuer bestens informiert – sieh dir unsere FAQs an."
+    },
+    "faqQuestions": {
+        "one": "Welche Fahrzeugtypen und Aktivitäten bieten Sie an?",
+        "two": "Brauche ich einen Führerschein oder Vorerfahrung zum Fahren?",
+        "three": "Sind Ihre Touren geführt?",
+        "four": "Was sollte ich für das Wüstenabenteuer anziehen?",
+        "five": "Gibt es Altersbeschränkungen oder gesundheitliche Anforderungen?",
+        "six": "Wie buche ich, und muss ich im Voraus buchen?",
+        "seven": "Wie lautet Ihre Stornierungs- und Rückerstattungsrichtlinie?",
+        "eight": "Welche Sicherheitsmaßnahmen haben Sie getroffen?",
+        "nine": "Kann ich meine eigene Kamera oder GoPro mitbringen?",
+        "ten": "Sind Gruppenbuchungen oder private Touren möglich?",
+        "eleven": "Bieten Sie einen Transport zum Wüstenabenteuer an?",
+        "twelve": "Welche Zahlungsmethoden akzeptieren Sie?",
+        "thirteen": "Muss ich vor der Teilnahme eine Haftungsverzichtserklärung unterschreiben?",
+        "fourteen": "Welche Dokumente muss ich mitbringen?"
+    },
+    "faqAnswers": {
+        "one": "Wir bieten ATVs, Quads, Dünenbuggys, Dirt Bikes und Kamelritte an – für aufregende Offroad- und traditionelle Wüstenerlebnisse.",
+        "two": "Ein Führerschein oder Vorerfahrung ist nicht erforderlich. Wir bieten vor jeder Fahrt eine umfassende Sicherheitseinweisung und Schulung an.",
+        "three": "Ja, alle Touren werden von professionellen und erfahrenen Guides begleitet, um Ihre Sicherheit zu gewährleisten und das Erlebnis zu maximieren.",
+        "four": "Wir empfehlen bequeme, leichte Kleidung, geschlossene Schuhe, Sonnencreme, Sonnenbrille und einen Hut als Sonnenschutz.",
+        "five": "Teilnehmer müssen bestimmte Alters- und Größenanforderungen erfüllen. Schwangere und Personen mit schwerwiegenden gesundheitlichen Problemen sollten nicht teilnehmen. Bitte teilen Sie uns gesundheitliche Bedenken im Voraus mit.",
+        "six": "Buchungen sind über unsere Website, telefonisch, per E-Mail oder WhatsApp möglich. Eine frühzeitige Buchung wird insbesondere an Wochenenden und Feiertagen dringend empfohlen.",
+        "seven": "Alle Buchungen sind endgültig und nicht erstattungsfähig. Eine Umbuchung kann bei schlechtem Wetter oder unvorhergesehenen Ereignissen möglich sein.",
+        "eight": "Wir stellen Helme und Sicherheitsausrüstung bereit, führen Sicherheitseinweisungen durch und warten unsere Fahrzeuge regelmäßig für Ihre Sicherheit.",
+        "nine": "Ja! Sie können gerne Ihre eigene Kamera mitbringen, um Ihr Abenteuer festzuhalten. Viele Gäste nutzen GoPros, die am Helm oder Fahrzeug befestigt sind.",
+        "ten": "Ja, wir bieten maßgeschneiderte Pakete für Gruppen, Firmenevents und besondere Anlässe an. Kontaktieren Sie uns, um Ihre individuelle Wüstenerfahrung zu planen.",
+        "eleven": "Ja, wir bieten gelegentlich Abhol- und Bringdienste von großen Hotels oder bestimmten Treffpunkten gegen eine zusätzliche Gebühr an. Bitte erkundigen Sie sich bei der Buchung.",
+        "twelve": "Wir akzeptieren Bargeld und gängige Kreditkarten. Sie können auch über mobile Online-Zahlungen buchen.",
+        "thirteen": "Ja, alle Teilnehmer müssen eine Haftungserklärung unterschreiben, in der sie die mit den Aktivitäten verbundenen Risiken anerkennen.",
+        "fourteen": "Sie sollten einen gültigen Ausweis (z. B. Reisepass oder Personalausweis) zur Identitätsprüfung bei der Buchung oder dem Check-in mitbringen. Für unsere Fahrzeuge ist kein Führerschein erforderlich, aber Minderjährige müssen von einem Elternteil oder Erziehungsberechtigten mit gültigem Ausweis begleitet werden."
+    },
+    "mediaGallery": {
+        "title": "Mediengalerie",
+        "description": "Erinnerungen im Herzen der Dünen festhalten – denn jedes Foto erzählt eine Geschichte. Willkommen in unserer Galerie.",
+        "exploreOur": "Entdecken Sie unsere",
+        "media": "Medien",
+        "paragrapgh": "Tauchen Sie ein in die Welt aufregender Wüstenabenteuer durch unsere Galerie! Von rasanten Fahrten über goldene Dünen bis hin zu unvergesslichen Momenten unter freiem Himmel – unsere Mediensammlung fängt die mitreißende Spannung, die natürliche Schönheit und die pure Freude jeder Reise ein. Ob ein Quadbike, das Sand aufwirbelt, oder eine Silhouette bei Sonnenuntergang auf dem Rücken eines Kamels – das sind die Erinnerungen, die Dune Rush unvergesslich machen."
+    }
+}

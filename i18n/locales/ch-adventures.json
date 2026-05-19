@@ -1,0 +1,187 @@
+{
+    "dirtBikeRental": {
+        "title": "越野摩托租赁",
+        "description": "体验我们带领的越野摩托之旅，穿越崎岖地形与壮丽小径，感受极致的越野冒险。",
+        "mainHeading": "释放你的冒险精神：",
+        "mainHeadingHighligheted": "带领式越野摩托租赁之旅",
+        "tourDuration": "行程时长：",
+        "seats": "座位：",
+        "bookNow": "立即预订",
+        "readMore": "查看更多",
+        "loadMore": "加载更多",
+        "product1": {
+            "title": "本田 CRF 越野摩托 450cc",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "info": "立即预订您的本田 CRF 450cc 越野摩托之旅",
+            "price": "350 迪拉姆（每 30 分钟）"
+        },
+        "product2": {
+            "title": "哈斯克瓦纳 450cc 越野摩托",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "info": "立即预订哈斯克瓦纳 450cc 越野摩托",
+            "price": "350 迪拉姆（每 30 分钟）"
+        },
+        "product3": {
+            "title": "KTM 450cc 越野摩托",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "info": "立即预订您的 KTM 450cc 越野摩托",
+            "price": "350 迪拉姆（每 30 分钟）"
+        },
+        "product4": {
+            "title": "KTM 150cc 越野摩托",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "info": "立即预订 KTM 150cc 越野摩托",
+            "price": "300 迪拉姆（每 30 分钟）"
+        },
+        "product5": {
+            "title": "儿童 KTM 50cc 越野摩托",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "info": "立即预订儿童 KTM 50cc 越野摩托",
+            "price": "250 迪拉姆（每 30 分钟）"
+        },
+        "product6": {
+            "title": "Progasi 300cc / 450cc 越野摩托",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "info": "选择你的动力 — 300cc 或 450cc",
+            "price": "300 迪拉姆（每 30 分钟）"
+        },
+        "product7": {
+            "title": "雅马哈 YZ 450cc 越野摩托",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "info": "立即预订雅马哈 YZ 450cc 越野摩托",
+            "price": "350 迪拉姆（每 30 分钟）"
+        }
+    },
+    "duneBuggyTours": {
+        "title": "沙丘越野车之旅",
+        "description": "系好安全带，开启终极沙漠激情！驰骋沙丘，感受轰鸣——与我们难忘的沙丘越野车探险一起发现沙漠的狂野一面。",
+        "mainHeading": "释放你的冒险精神：",
+        "mainHeadingHighligheted": "带领式沙丘越野车之旅",
+        "tourDuration": "行程时长：",
+        "seats": "座位：",
+        "bookNow": "立即预订",
+        "readMore": "查看更多",
+        "loadMore": "加载更多",
+        "product1": {
+            "title": "Can-Am 1000cc（2 座）",
+            "tourDuration": "30-120 分钟",
+            "seats": "2",
+            "price": "1200 迪拉姆（每 30 分钟）"
+        },
+        "product2": {
+            "title": "Can-Am 1000cc（4 座）",
+            "tourDuration": "30-120 分钟",
+            "seats": "4",
+            "price": "1400 迪拉姆（每 30 分钟）"
+        },
+        "product3": {
+            "title": "Polaris RZR 800cc（2 座）",
+            "tourDuration": "30-120 分钟",
+            "seats": "2",
+            "price": "500 迪拉姆（每 30 分钟）"
+        },
+        "product4": {
+            "title": "Polaris RZR 1000cc（1 座）",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "price": "400 迪拉姆（每 30 分钟）"
+        },
+        "product5": {
+            "title": "Polaris RZR 1000cc（2 座）",
+            "tourDuration": "30-120 分钟",
+            "seats": "2",
+            "price": "550 迪拉姆（每 30 分钟）"
+        },
+        "product6": {
+            "title": "Polaris RZR 1000cc（4 座）",
+            "tourDuration": "30-120 分钟",
+            "seats": "4",
+            "price": "700 迪拉姆（每 30 分钟）"
+        },
+        "product7": {
+            "title": "Polaris Pro-R 2000cc（4 座）",
+            "tourDuration": "30-120 分钟",
+            "seats": "4",
+            "price": "1800 迪拉姆（每 30 分钟）"
+        },
+        "product8": {
+            "title": "ZForce 1000cc（2 座）",
+            "tourDuration": "30-120 分钟",
+            "seats": "2",
+            "price": "550 迪拉姆（每 30 分钟）"
+        },
+        "product9": {
+            "title": "ZForce 1000cc（4 座）",
+            "tourDuration": "30-120 分钟",
+            "seats": "4",
+            "price": "700 迪拉姆（每 30 分钟）"
+        }
+    },
+    "quadBikingTours": {
+        "title": "四轮摩托之旅",
+        "description": "探索无尽沙丘，追逐地平线，让肾上腺素带你驾驶强劲的四轮摩托穿越沙漠。",
+        "mainHeading": "释放你的冒险精神：",
+        "mainHeadingHighligheted": "带领式四轮摩托之旅",
+        "filters": "筛选",
+        "type": "类型",
+        "lorem": "占位文本",
+        "timeDuration": "时间时长",
+        "min": "分钟",
+        "aed": "迪拉姆",
+        "priceRange": "价格范围",
+        "tourDuration": "行程时长：",
+        "seats": "座位：",
+        "bookNow": "立即预订",
+        "readMore": "查看更多",
+        "loadMore": "加载更多",
+        "product1": {
+            "title": "Adly 四轮摩托 320cc",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "price": "200 迪拉姆（每 30 分钟）"
+        },
+        "product2": {
+            "title": "儿童四轮摩托 80/100cc",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "price": "150 迪拉姆（每 30 分钟）"
+        },
+        "product3": {
+            "title": "Kymco 四轮摩托 250cc",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "price": "150 迪拉姆（每 30 分钟）"
+        },
+        "product4": {
+            "title": "Loncin 230cc 四轮摩托",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "price": "150 迪拉姆（每 30 分钟）"
+        },
+        "product5": {
+            "title": "Loncin 300cc 四轮摩托",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "price": "150 迪拉姆（每 30 分钟）"
+        },
+        "product6": {
+            "title": "Yoki 450cc 四轮摩托",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "price": "250 迪拉姆（每 30 分钟）"
+        },
+        "product7": {
+            "title": "雅马哈 Raptor 700cc 四轮摩托",
+            "tourDuration": "30-120 分钟",
+            "seats": "1",
+            "price": "350 迪拉姆（每 30 分钟）"
+        }
+    }
+}

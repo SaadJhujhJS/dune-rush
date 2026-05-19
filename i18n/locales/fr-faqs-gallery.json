@@ -1,0 +1,45 @@
+{
+    "faqs": {
+        "title": "FAQ",
+        "description": "Commencez votre aventure bien informé — consultez notre FAQ."
+    },
+    "faqQuestions": {
+        "one": "Quels types de véhicules et d'activités proposez-vous ?",
+        "two": "Ai-je besoin d’un permis de conduire ou d’une expérience préalable pour conduire ?",
+        "three": "Vos visites sont-elles guidées ?",
+        "four": "Que dois-je porter pour l’aventure dans le désert ?",
+        "five": "Y a-t-il des restrictions d'âge ou des considérations de santé ?",
+        "six": "Comment réserver, et dois-je réserver à l'avance ?",
+        "seven": "Quelle est votre politique d'annulation et de remboursement ?",
+        "eight": "Quelles mesures de sécurité avez-vous mises en place ?",
+        "nine": "Puis-je apporter ma propre caméra ou GoPro ?",
+        "ten": "Les réservations de groupe ou les visites privées sont-elles possibles ?",
+        "eleven": "Proposez-vous un transport vers le site d’aventure dans le désert ?",
+        "twelve": "Quels modes de paiement acceptez-vous ?",
+        "thirteen": "Dois-je signer une décharge avant de participer ?",
+        "fourteen": "Quels documents dois-je apporter avec moi ?"
+    },
+    "faqAnswers": {
+        "one": "Nous proposons des quads, des buggy des dunes, des motos tout-terrain et des promenades à dos de chameau — pour des expériences désertiques palpitantes ou traditionnelles.",
+        "two": "Aucun permis de conduire ou expérience préalable n'est requis. Nous fournissons un briefing complet sur la sécurité et une formation avant chaque sortie.",
+        "three": "Oui, toutes les excursions sont encadrées par des guides professionnels et expérimentés pour assurer votre sécurité et maximiser votre expérience.",
+        "four": "Nous recommandons des vêtements confortables et légers, des chaussures fermées, de la crème solaire, des lunettes de soleil et un chapeau pour vous protéger du soleil.",
+        "five": "Les participants doivent respecter les exigences minimales d'âge et de taille. Les femmes enceintes et les personnes ayant des problèmes de santé graves sont invitées à ne pas participer. Veuillez nous informer de toute condition de santé.",
+        "six": "Les réservations peuvent être effectuées via notre site Web, téléphone, e-mail ou WhatsApp. Il est fortement recommandé de réserver à l’avance, surtout les week-ends et jours fériés.",
+        "seven": "Toutes les réservations sont définitives et non remboursables. Un report peut être possible en cas de mauvais temps ou d’événements imprévus.",
+        "eight": "Nous fournissons des casques, des équipements de sécurité, des briefings, et nous entretenons régulièrement tous les véhicules pour votre sécurité.",
+        "nine": "Oui ! N'hésitez pas à apporter votre propre appareil photo. De nombreux invités utilisent une GoPro fixée au casque ou au véhicule.",
+        "ten": "Oui, nous proposons des forfaits personnalisés pour les groupes, événements d'entreprise et occasions spéciales. Contactez-nous pour organiser votre expérience sur mesure.",
+        "eleven": "Oui, nous proposons parfois un service de prise en charge et de retour depuis les principaux hôtels ou lieux désignés moyennant des frais supplémentaires. Veuillez nous le signaler lors de la réservation.",
+        "twelve": "Nous acceptons les espèces et les principales cartes de crédit. Vous pouvez également réserver via les paiements mobiles en ligne.",
+        "thirteen": "Oui, tous les participants doivent signer une décharge reconnaissant les risques liés aux activités d'aventure dans le désert.",
+        "fourteen": "Vous devez apporter une pièce d'identité physique valide (comme un passeport ou une carte d'identité nationale) pour la vérification au moment de la réservation ou de l'enregistrement. Aucun permis de conduire n'est requis pour nos véhicules, mais les mineurs doivent être accompagnés d’un parent ou tuteur avec une pièce d’identité valide."
+    },
+    "mediaGallery": {
+        "title": "Galerie Médias",
+        "description": "Capturer des souvenirs au cœur des dunes, car chaque photo raconte une histoire — bienvenue dans notre galerie.",
+        "exploreOur": "Découvrez notre",
+        "media": "Média",
+        "paragrapgh": "Plongez dans l’univers palpitant des aventures dans le désert grâce à notre galerie ! Des courses effrénées sur les dunes dorées aux moments inoubliables sous un ciel ouvert, notre collection multimédia capture l’adrénaline, la beauté naturelle et la joie pure de chaque voyage. Qu’il s’agisse d’un quad soulevant le sable ou d’une silhouette au coucher du soleil sur le dos d’un chameau — ce sont ces souvenirs qui rendent Dune Rush inoubliable."
+    }
+}

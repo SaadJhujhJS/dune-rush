@@ -1,0 +1,28 @@
+{
+    "groupsCorporate": {
+        "title": "Groupes & Entreprises",
+        "description": "Renforcez les liens d'équipe et stimulez le moral grâce à nos activités de groupe et d'entreprise palpitantes — parfaites pour le team building, les célébrations ou des aventures inoubliables partagées.",
+        "heading": "Activités de",
+        "headinghighlight": "Groupe dans le Désert",
+        "exploreOur": "Découvrez Nos",
+        "eventsMedia": "Médias d'Événements",
+        "duneRush": "Dune Rush",
+        "adventureTourExperience": "Expérience de Tours d’Aventure",
+        "experienceDescription": "Chez Dune Rush Adventure Tours, nous transformons le désert en votre terrain de jeu ultime. Que vous fonciez sur les dunes dorées en puissant quad, buggy ou moto tout-terrain, chaque instant est conçu pour renforcer les liens et faire monter l’adrénaline. Nos expériences favorisent la confiance, le travail d'équipe et les victoires partagées — tout comme les meilleurs moments de la vie et du travail. Avec de grands espaces, un équipement haut de gamme et des guides expérimentés, nous sommes parfaitement équipés pour accueillir des groupes de toutes tailles. Situés dans l’un des paysages désertiques les plus emblématiques des Émirats arabes unis, nous offrons une escapade inoubliable où se rencontrent excitation et connexion."
+    },
+    "birthday": {
+        "title": "Anniversaire",
+        "description": "Célébrez votre journée spéciale avec une aventure inoubliable — des expériences d'anniversaire uniques remplies de plaisir, d'excitation et de souvenirs durables pour tous les âges.",
+        "heading": "Contactez-nous pour réserver un",
+        "headinghighlight": "événement d'anniversaire",
+        "form": {
+            "name": "Votre nom",
+            "email": "Entrez votre e-mail",
+            "company": "Entreprise",
+            "phone": "Numéro de téléphone",
+            "description": "Description",
+            "sendMessage": "Envoyer le message",
+            "submitting": "Envoi en cours..."
+        }
+    }
+}

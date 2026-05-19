@@ -1,0 +1,103 @@
+{
+    "aboutUs": {
+        "title": "À propos de nous",
+        "description": "En savoir plus sur notre mission, notre vision et l'équipe dédiée à fournir un service exceptionnel."
+    },
+    "teamDedicated": {
+        "title1": "Une équipe dévouée à offrir",
+        "title2": "un service exceptionnel",
+        "description1": "Chez Dune Rush Adventure Tours, nous ne sommes pas seulement une entreprise de location tout-terrain — nous sommes des passionnés du désert, dédiés à offrir des expériences inoubliables. Avec une passion pour l'aventure et un profond respect pour la beauté du désert, nous proposons de puissants VTT, buggies des sables, quads, motos tout-terrain et promenades à dos de chameau qui vous permettent de vivre le frisson, la culture et la sérénité des dunes comme jamais auparavant.",
+        "description2": "Notre équipe s’engage à faire preuve de professionnalisme, de sécurité et de service personnalisé, garantissant que chaque trajet — qu’il s’agisse d’un aventurier solo ou d’un groupe — soit traité avec soin, expertise et enthousiasme. Du premier rugissement de moteur au dernier coucher de soleil, nous créons des moments dont vous vous souviendrez toujours.",
+        "bookNow": "Réserver maintenant"
+    },
+    "statements": {
+        "missiontitle": "Déclaration de mission",
+        "missionDescription": "Offrir des expériences d'aventure dans le désert sûres, palpitantes et authentiques grâce à des véhicules de haute qualité, des conseils experts et un service client exceptionnel — pour créer des souvenirs durables pour chaque aventurier.",
+        "visiontitle": "Déclaration de vision",
+        "visionDescription": "Devenir le nom de référence dans le tourisme désertique en redéfinissant l’aventure tout-terrain grâce à l’innovation, au professionnalisme et à une connexion profonde avec l’esprit du désert — sur chaque piste tracée à travers les sables."
+    },
+    "directors": {
+        "founder": "Fondateur",
+        "founderMessage": "Message",
+        "founderDescription1": "Bienvenue chez Dune Rush Adventure Tours — où chaque voyage dans le désert devient un souvenir inoubliable.",
+        "founderDescription2": "En tant que fondateur, ma vision a toujours été simple : créer une expérience d'aventure qui mêle la beauté brute du désert des Émirats arabes unis à l’excitation, la sécurité et des moments inoubliables. Ce qui a commencé comme une passion pour les sensations fortes tout-terrain est devenu une destination d'aventure à part entière — proposant tout, des puissants VTT et motos tout-terrain aux buggies des sables, en passant par de paisibles balades à dos de chameau.",
+        "founderDescription3": "Que vous soyez en quête de sensations fortes, une famille à la recherche de divertissement ou un débutant prêt à explorer, chaque balade, sentier et excursion a été conçu pour vous. Chez Dune Rush, il ne s’agit pas seulement de vitesse — il s’agit de l’esprit d’aventure.",
+        "join": "Rejoignez-nous. Là où le sable rencontre la vitesse !",
+        "founderName": "Saqib Aziz Bajwa",
+        "founderDesignation": "Fondateur et PDG - Dune Rush Adventure Tours",
+        "coFounder": "Co-fondateur",
+        "coFounderMessage": "Message",
+        "coFounderDescription1": "Chez Dune Rush Adventure Tours, notre mission va au-delà des balades à sensations — il s'agit de créer des moments que les gens n'oublieront jamais.",
+        "coFounderDescription2": "En tant que co-fondateur, j’ai vu de mes propres yeux comment une simple balade dans le désert peut devenir un souvenir à vie. Qu’il s’agisse d’un aventurier débutant ou expérimenté, notre objectif est de faire en sorte que chaque invité se sente accueilli, en sécurité et totalement immergé dans l’aventure. Nous avons travaillé dur pour bâtir non seulement une entreprise, mais une communauté — alimentée par la passion, soutenue par un service de qualité et motivée par des expériences inoubliables.",
+        "coFounderDescription3": "Chaque sourire, chaque photo, chaque cri de joie dans les dunes — c’est ce qui nous motive chaque jour.",
+        "weLook": "Nous avons hâte de vous voir là-bas.",
+        "coFounderName": "Ammar Shahid",
+        "coFounderDesignation": "Co-fondateur et CTO - Dune Rush Adventure Tours"
+    },
+    "clientSays": {
+        "what": "quel est le nôtre",
+        "client": "Clients",
+        "says": "dit"
+    },
+    "reviews": {
+        "review1": "Avis 1",
+        "review2": "Avis 2",
+        "review3": "Avis 3",
+        "review4": "Avis 4",
+        "review5": "Avis 5",
+        "review6": "Avis 6",
+        "review7": "Avis 7",
+        "review8": "Avis 8",
+        "review9": "Avis 9",
+        "review10": "Avis 10",
+        "review11": "Avis 11",
+        "review12": "Avis 12",
+        "review13": "Avis 13",
+        "review14": "Avis 14",
+        "review15": "Avis 15"
+    },
+    "names": {
+        "name1": "Abdul Rahman",
+        "name2": "Lina Martin",
+        "name3": "Jayden Steve",
+        "name4": "David Mark",
+        "name5": "M. Zahid",
+        "name6": "Sandra T. Responsable RH",
+        "name7": "Alex Williams",
+        "name8": "Miller Adams",
+        "name9": "M. Rehan",
+        "name10": "Melissa Mcgrath",
+        "name11": "Ali Kareem",
+        "name12": "Sebastian Doris",
+        "name13": "Bilal Naeem",
+        "name14": "M. Umair",
+        "name15": "Sadiq Shah"
+    },
+    "reviewDescriptions": {
+        "description1": "Conduire à travers les dunes, c'était comme être dans un vrai jeu vidéo ! Le Raptor était puissant, le sable volait, et je n’ai pas cessé de sourire. Meilleure montée d’adrénaline de tous les temps. Merci Dune Rush Adventure.",
+        "description2": "Qui a besoin de montagnes russes quand on a un Can Am dans le désert ? L’équipe de Dune Rush a rendu l’expérience tellement amusante — entre adrénaline et rire.",
+        "description3": "Mes amis et moi sommes venus pour une partie de paintball et avons terminé la journée en conduisant des dirt bikes. C'était comme un parc d’attractions d’aventure dans le désert. Merci à toute l’équipe de Dune Rush pour cette journée mémorable.",
+        "description4": "De la réservation à la dernière balade, tout était extrêmement bien organisé. Le personnel était attentionné, les consignes de sécurité claires, et l’équipement au top.",
+        "description5": "En tant que coordinatrice de voyages, j’ai travaillé avec de nombreuses entreprises. Dune Rush m’a impressionné par leur professionnalisme, la qualité de leurs véhicules et leur équipe courtoise. Je recommande vivement.",
+        "description6": "Dune Rush a offert une expérience incroyable pour notre activité de team building d’entreprise. Tout était bien coordonné, l’équipe était organisée, et l’environnement à la fois sûr et excitant.",
+        "description7": "Tout le processus était fluide — de la réservation à la balade en buggy. J’ai particulièrement apprécié la propreté et l’état impeccable de l’équipement.",
+        "description8": "Excellent service et souci du détail. L’équipe s’est assurée que nous étions à l’aise et a tout bien expliqué. On sent qu’ils se soucient de la satisfaction des clients.",
+        "description9": "Ce voyage a été incroyable, et l’équipe a tout fait pour le rendre inoubliable. Merci Dune Rush.",
+        "description10": "Après une longue année stressante, ce voyage était une bouffée d’air frais. Regarder le coucher du soleil sur les dunes à bord d’un buggy était une véritable thérapie.",
+        "description11": "Ma famille est venue d’Europe et c’était notre première aventure dans le désert ensemble. Le bonheur sur le visage de mes parents pendant la balade n’a pas de prix. Merci Dune Rush.",
+        "description12": "Ambiance très détendue. L’endroit entier était plein d’énergie. Aucun stress, juste du fun dans le sable.",
+        "description13": "Honnêtement, je ne savais pas à quoi m’attendre, mais j’ai adoré chaque moment. Je le referai, et je recommande Dune Rush à tous les amateurs d’aventure.",
+        "description14": "J’ai déjà conduit des dirt bikes, mais faire ça dans le désert avec Dune Rush était une toute autre expérience. Les pistes étaient géniales, les motos en parfait état, et les conseils du guide étaient précieux.",
+        "description15": "Je n’étais pas venu seulement pour l’aventure — je voulais les vues. Et le désert n’a pas déçu. Conduire un quad à travers les dunes dorées dans un silence majestueux… inoubliable. Dune Rush s’est assuré que je sois au meilleur endroit pour en profiter."
+    },
+    "getInTouch": {
+        "title": "Contactez-nous",
+        "description": "Prêt à réserver votre prochaine aventure dans le désert ou avez-vous des questions avant de partir ? Notre équipe est là pour vous aider ! Que vous planifiez un voyage en solo, une sortie en groupe ou que vous recherchiez simplement la meilleure expérience tout-terrain, nous serions ravis de vous entendre. Contactez-nous pour les réservations, les demandes ou les forfaits personnalisés — et laissez-nous vous aider à créer des moments inoubliables dans les dunes.",
+        "contactUs": "Contactez-nous dès aujourd'hui et que l'aventure commence !",
+        "reservationNumber": "Numéros de réservation",
+        "generalInquiry": "Demande générale",
+        "baseLocation": "Emplacement principal de la base opérationnelle",
+        "locationAddress": "Route Dubaï-Hatta, Al Badayer, Industriel 1, Sharjah, Émirats arabes unis",
+        "contactButton": "Nous contacter"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "faqs": {
+        "title": "FAQs",
+        "description": "Start your adventure fully informed — check out our FAQs."
+    },
+    "faqQuestions": {
+        "one": "What types of vehicles and activities do you offer?",
+        "two": "Do I need a driver’s license or prior experience to ride?",
+        "three": "Are your tours guided?",
+        "four": "What should I wear for the desert adventure?",
+        "five": "Are there age restrictions or health considerations?",
+        "six": "How do I book, and do I need to book in advance?",
+        "seven": "What is your cancellation and refund policy?",
+        "eight": "What safety measures do you have in place?",
+        "nine": "Can I bring my own camera or GoPro?",
+        "ten": "Are group bookings or private tours available?",
+        "eleven": "Do you provide transportation to the desert adventure site?",
+        "twelve": "What payment methods do you accept?",
+        "thirteen": "Do I need to sign a waiver before participating?",
+        "fourteen": "What documents do I need to bring with me?"
+    },
+    "faqAnswers": {
+        "one": "We offer ATVs, quad bikes, dune buggies, dirt bikes, and camel rides — providing thrilling off-road and traditional desert experiences.",
+        "two": "No driver’s license or prior experience is required. We provide full safety briefings and training before every ride.",
+        "three": "Yes, all tours are led by professional and experienced guides to ensure safety and maximize your desert adventure.",
+        "four": "We recommend comfortable, lightweight clothing, closed-toe shoes, sunscreen, sunglasses, and a hat for sun protection.",
+        "five": "Participants must meet minimum age and height requirements. Pregnant women and individuals with serious health issues are advised not to participate. Please inform us of any health concerns.",
+        "six": "Bookings can be made via our Website, Phone, Email, or WhatsApp. Advance booking is highly recommended, especially on weekends and holidays.",
+        "seven": "All bookings are final and non-refundable. Rescheduling may be possible in cases of bad weather or other unforeseen events.",
+        "eight": "We provide helmets, and safety gear, conduct safety briefings, and maintain all vehicles regularly for your protection.",
+        "nine": "Yes! Feel free to bring your own cameras to capture your adventure. Many guests use GoPro mounted on helmets or vehicles.",
+        "ten": "Yes, we offer customized packages for groups, corporate events, and special occasions. Contact us to plan your personalized desert experience.",
+        "eleven": "Yes, sometimes we offer pick-up and drop-off services from major hotels or designated locations for an additional fee. Please inquire at the time of booking to arrange transportation.",
+        "twelve": "We accept cash & major credit cards. You can also book your adventure through online mobile payments.",
+        "thirteen": "Yes, all participants are required to sign a waiver acknowledging the risks associated with the desert adventure activities.",
+        "fourteen": "You should bring a valid physical ID (such as a passport or Emirates ID) for identity verification at the time of booking or check-in. No driver’s license is required for riding our vehicles, but minors must be accompanied by a parent or guardian with proper ID."
+    },
+    "mediaGallery": {
+        "title": "Media Gallery",
+        "description": "Capturing memories from the heart of the dunes because every photo tells a story and welcome to our gallery.",
+        "exploreOur": "Explore Our",
+        "media": "Media",
+        "paragrapgh": "Step into the world of thrilling desert adventures through our gallery! From roaring rides across golden dunes to unforgettable moments under the open sky, our media collection captures the heart-pounding excitement, natural beauty, and pure joy of every journey. Whether it's a quad bike kicking up sand or a sunset silhouette on a camel’s back — these are the memories that make Dune Rush unforgettable."
+    }
+}

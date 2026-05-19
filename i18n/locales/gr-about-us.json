@@ -1,0 +1,103 @@
+{
+    "aboutUs": {
+        "title": "Über uns",
+        "description": "Erfahren Sie mehr über unsere Mission, Vision und das Team, das sich dem außergewöhnlichen Service verschrieben hat."
+    },
+    "teamDedicated": {
+        "title1": "Team gewidmet für",
+        "title2": "außergewöhnlichen Service",
+        "description1": "Bei Dune Rush Adventure Tours sind wir mehr als nur ein Offroad-Vermietungsunternehmen – wir sind leidenschaftliche Wüstenentdecker, die unvergessliche Erlebnisse schaffen wollen. Mit einer Liebe zum Abenteuer und tiefem Respekt für die Schönheit der Wüste bieten wir leistungsstarke ATVs, Dünen-Buggys, Quads, Dirtbikes und Kamelritte, die es Ihnen ermöglichen, den Nervenkitzel, die Kultur und die Ruhe der Dünen wie nie zuvor zu erleben.",
+        "description2": "Unser Team steht für Professionalität, Sicherheit und persönlichen Service, um sicherzustellen, dass jede Fahrt – ob für einen Einzelabenteurer oder eine Gruppe – mit Sorgfalt, Fachwissen und Begeisterung durchgeführt wird. Vom ersten Motorengeräusch bis zum letzten Sonnenuntergang schaffen wir Momente, die Sie nie vergessen werden.",
+        "bookNow": "Jetzt buchen"
+    },
+    "statements": {
+        "missiontitle": "Unsere Mission",
+        "missionDescription": "Sichere, spannende und authentische Wüstenabenteuer durch hochwertige Fahrzeuge, fachkundige Begleitung und außergewöhnlichen Kundenservice bieten – um unvergessliche Erinnerungen für jeden Fahrer zu schaffen.",
+        "visiontitle": "Unsere Vision",
+        "visionDescription": "Der führende Name im Wüstentourismus zu werden, indem wir Offroad-Abenteuer durch Innovation, Professionalität und eine tiefe Verbindung zum Geist der Wüste neu definieren – auf jedem Weg, den wir durch den Sand schlagen."
+    },
+    "directors": {
+        "founder": "Gründer",
+        "founderMessage": "Nachricht",
+        "founderDescription1": "Willkommen bei Dune Rush Adventure Tours – wo jede Reise in die Wüste zu einer Erinnerung fürs Leben wird.",
+        "founderDescription2": "Als Gründer war meine Vision immer einfach: Ein Abenteuererlebnis zu schaffen, das die rohe Schönheit der Wüste der VAE mit Aufregung, Sicherheit und unvergesslichen Momenten verbindet. Was als Leidenschaft für Offroad-Abenteuer begann, ist zu einem vollständigen Abenteuerziel geworden – mit leistungsstarken ATVs und Dirtbikes bis hin zu Dünen-Buggys und sogar ruhigen Kamelritten.",
+        "founderDescription3": "Ob Sie nun Abenteurer, Familie oder Erstbesucher sind – jede Fahrt, Strecke und Tour ist auf Sie abgestimmt. Bei Dune Rush geht es nicht nur um Geschwindigkeit – es geht um den Geist des Abenteuers.",
+        "join": "Schließen Sie sich uns an. Wo Sand auf Geschwindigkeit trifft!",
+        "founderName": "Saqib Aziz Bajwa",
+        "founderDesignation": "Gründer & CEO - Dune Rush Adventure Tours",
+        "coFounder": "Mitgründer",
+        "coFounderMessage": "Nachricht",
+        "coFounderDescription1": "Bei Dune Rush Adventure Tours geht es uns nicht nur darum, aufregende Fahrten zu bieten – sondern darum, unvergessliche Momente zu schaffen.",
+        "coFounderDescription2": "Als Mitgründer habe ich selbst erlebt, wie eine einfache Wüstenfahrt zu einer lebenslangen Erinnerung werden kann. Vom Erstfahrer bis zum erfahrenen Entdecker ist es unser Ziel, dass sich jeder Gast willkommen, sicher und voll im Abenteuer eingebunden fühlt. Wir haben hart daran gearbeitet, nicht nur ein Unternehmen, sondern eine Gemeinschaft aufzubauen – angetrieben von Leidenschaft, Qualität und unvergesslichen Erlebnissen.",
+        "coFounderDescription3": "Jedes Lächeln, jedes Foto, jeder Freudenschrei in den Dünen – das ist es, was uns täglich antreibt.",
+        "weLook": "Wir freuen uns, Sie bald bei uns begrüßen zu dürfen.",
+        "coFounderName": "Ammar Shahid",
+        "coFounderDesignation": "Mitgründer & CTO - Dune Rush Adventure Tours"
+    },
+    "clientSays": {
+        "what": "Was unsere",
+        "client": "Kunden",
+        "says": "sagen"
+    },
+    "reviews": {
+        "review1": "Bewertung 1",
+        "review2": "Bewertung 2",
+        "review3": "Bewertung 3",
+        "review4": "Bewertung 4",
+        "review5": "Bewertung 5",
+        "review6": "Bewertung 6",
+        "review7": "Bewertung 7",
+        "review8": "Bewertung 8",
+        "review9": "Bewertung 9",
+        "review10": "Bewertung 10",
+        "review11": "Bewertung 11",
+        "review12": "Bewertung 12",
+        "review13": "Bewertung 13",
+        "review14": "Bewertung 14",
+        "review15": "Bewertung 15"
+    },
+    "names": {
+        "name1": "Abdul Rahman",
+        "name2": "Lina Martin",
+        "name3": "Jayden Steve",
+        "name4": "David Mark",
+        "name5": "M. Zahid",
+        "name6": "Sandra T. Personalmanagerin",
+        "name7": "Alex Williams",
+        "name8": "Miller Adams",
+        "name9": "M. Rehan",
+        "name10": "Melissa Mcgrath",
+        "name11": "Ali Kareem",
+        "name12": "Sebastian Doris",
+        "name13": "Bilal Naeem",
+        "name14": "M. Umair",
+        "name15": "Sadiq Shah"
+    },
+    "reviewDescriptions": {
+        "description1": "Durch die Dünen zu fahren fühlte sich an wie ein echtes Videospiel! Der Raptor war kraftvoll, der Sand flog, und ich konnte mein Lächeln nicht unterdrücken. Der beste Adrenalinkick aller Zeiten. Danke Dune Rush Adventure.",
+        "description2": "Wer braucht eine Achterbahn, wenn man einen Can-Am in der Wüste fahren kann? Das Team von Dune Rush hat alles unglaublich spaßig gemacht – pure Action und Geschwindigkeit.",
+        "description3": "Meine Freunde und ich kamen wegen Paintball und beendeten den Tag mit Dirtbike-Rennen. Es fühlte sich an wie ein Abenteuer-Freizeitpark in der Wüste. Vielen Dank an das gesamte Dune Rush-Team für diesen unvergesslichen Tag.",
+        "description4": "Von der Buchung bis zur letzten Fahrt war alles äußerst professionell organisiert. Das Personal war aufmerksam, die Sicherheitsvorkehrungen klar und die Ausrüstung in bestem Zustand.",
+        "description5": "Als Reiseveranstalter habe ich mit vielen Anbietern gearbeitet. Dune Rush Adventure Tours hat mich mit ihrer Zuverlässigkeit, gut gewarteten Fahrzeugen und ihrem höflichen Team beeindruckt. Sehr empfehlenswert für Agenturen.",
+        "description6": "Dune Rush hat für unser Teambuilding-Event eine fantastische Erfahrung geboten. Die Aktivitäten waren gut koordiniert, das Personal war organisiert und die Atmosphäre sicher, aber aufregend.",
+        "description7": "Der gesamte Ablauf war reibungslos – von der Buchung bis zur geführten Buggy-Tour. Besonders gut gefallen hat mir die Sauberkeit und Einsatzbereitschaft der Ausrüstung.",
+        "description8": "Ausgezeichneter Service mit Liebe zum Detail. Das Team sorgte dafür, dass wir uns wohlfühlten und erklärte alles gründlich. Man merkt, dass ihnen die Kundenzufriedenheit am Herzen liegt.",
+        "description9": "Diese Reise war etwas Besonderes, und das Personal tat alles, um sie unvergesslich zu machen. Danke Dune Rush.",
+        "description10": "Nach einem langen, stressigen Jahr war das genau die Erholung, die wir brauchten. Den Sonnenuntergang über den Dünen im Buggy zu erleben war pure Therapie.",
+        "description11": "Meine Familie kam aus Europa, und das war unser erstes Wüstenabenteuer gemeinsam. Das Lächeln auf den Gesichtern meiner Eltern während der Fahrt war unbezahlbar. Danke Dune Rush.",
+        "description12": "Total entspannte Stimmung. Der ganze Ort war voller Energie. Kein Druck – einfach nur Spaß im Sand.",
+        "description13": "Ehrlich gesagt wusste ich nicht, was mich erwartet, aber ich habe jede Minute geliebt. Ich würde es sofort wieder machen und empfehle Dune Rush jedem Abenteurer.",
+        "description14": "Ich bin schon früher Dirtbikes gefahren, aber das in der Wüste mit Dune Rush war etwas ganz Besonderes. Die Strecken waren spannend, die Bikes in Top-Zustand und der Trainer gab hilfreiche Tipps.",
+        "description15": "Ich war nicht nur wegen des Abenteuers hier – ich wollte die Aussicht genießen. Und wow, die Wüste hat nicht enttäuscht. Ich fuhr mit dem Quad über goldene Dünen und genoss die friedliche Stille… unvergesslich. Dune Rush sorgte dafür, dass ich den perfekten Ort dafür hatte."
+    },
+    "getInTouch": {
+        "title": "Kontaktieren Sie uns",
+        "description": "Bereit, Ihr nächstes Wüstenabenteuer zu buchen oder haben Sie Fragen, bevor es losgeht? Unser Team ist für Sie da! Egal, ob Sie eine Solo-Reise, einen Gruppenausflug planen oder einfach nur das beste Offroad-Erlebnis suchen – wir freuen uns darauf, von Ihnen zu hören. Kontaktieren Sie uns für Buchungen, Anfragen oder individuelle Pakete – und lassen Sie uns Ihnen helfen, unvergessliche Momente in den Dünen zu schaffen.",
+        "contactUs": "Kontaktieren Sie uns noch heute und spüren Sie den Nervenkitzel!",
+        "reservationNumber": "Reservierungsnummern",
+        "generalInquiry": "Allgemeine Anfrage",
+        "baseLocation": "Hauptstandort der Betriebsbasis",
+        "locationAddress": "Dubai-Hatta-Straße, Al Badayer, Industriegebiet 1, Sharjah, Vereinigte Arabische Emirate",
+        "contactButton": "Kontaktieren Sie uns"
+    }
+}

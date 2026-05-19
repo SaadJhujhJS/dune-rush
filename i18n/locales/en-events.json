@@ -1,0 +1,28 @@
+{
+    "groupsCorporate": {
+        "title": "Group & Corporate",
+        "description": "Strengthen team bonds with our exciting group & corporate activities—perfect for team-building, celebrations & unforgettable shared adventures.",
+        "heading": "Desert",
+        "headinghighlight": "Group Activities",
+        "exploreOur": "Explore Our",
+        "eventsMedia": "Events Media",
+        "duneRush": "Dune Rush",
+        "adventureTourExperience": "Adventure Tours Experience",
+        "experienceDescription": "At Dune Rush Adventure Tours, we turn the desert into your ultimate adventure playground. Whether you're racing across golden dunes in a powerful ATV, dune buggy, or cruising the trails on a dirt bike, every moment is built to strengthen connections and spark adrenaline. Our experiences encourage trust, teamwork, and shared triumphs—just like the best moments in life and work. With ample space, top-tier equipment, and experienced guides, we’re fully equipped to host groups of all sizes. Located in one of the UAE’s most iconic desert landscapes, we offer an unforgettable escape where excitement meets bonding."
+    },
+    "birthday": {
+        "title": "Birthday",
+        "description": "Celebrate your special day with an unforgettable adventure—unique birthday experiences filled with fun, excitement, and lasting memories for all ages.",
+        "heading": "Contact Us To Book A",
+        "headinghighlight": "Birthday Event",
+        "form": {
+            "name": "Your Name",
+            "email": "Enter Your Email",
+            "company": "Company",
+            "phone": "Phone Number",
+            "description": "Description",
+            "sendMessage": "Send Message",
+            "submitting": "Submitting..."
+        }
+    }
+}

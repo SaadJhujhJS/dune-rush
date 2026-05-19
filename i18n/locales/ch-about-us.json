@@ -1,0 +1,103 @@
+{
+    "aboutUs": {
+        "title": "关于我们",
+        "description": "了解更多关于我们的使命、愿景以及致力于提供卓越服务的团队。"
+    },
+    "teamDedicated": {
+        "title1": "致力于提供",
+        "title2": "卓越服务的团队",
+        "description1": "在 Dune Rush 探险之旅，我们不仅仅是一家越野租赁公司——我们是热爱沙漠的探险者，致力于带来难忘的体验。我们热爱冒险，并深深敬畏沙漠的美丽，提供强劲的全地形车（ATV）、沙地越野车、四轮摩托车、越野摩托车和骆驼骑行，让您以前所未有的方式体验沙丘的刺激、文化与宁静。",
+        "description2": "我们的团队秉持专业、安全和个性化服务的原则，确保每一次旅程——无论是独行者还是团队——都充满关怀、专业和兴奋感。从发动机轰鸣的那一刻起，到日落的最后一抹光影，我们都在创造值得铭记的回忆。",
+        "bookNow": "立即预订"
+    },
+    "statements": {
+        "missiontitle": "使命宣言",
+        "missionDescription": "通过高品质的车辆、专业的指导和卓越的客户服务，提供安全、刺激和真实的沙漠探险体验——为每一位骑行者创造持久的回忆。",
+        "visiontitle": "愿景宣言",
+        "visionDescription": "通过创新、专业精神以及对沙漠精神的深刻连接，重新定义越野探险，成为沙漠旅游的领先品牌——在每一条穿越沙海的轨迹中。"
+    },
+    "directors": {
+        "founder": "创始人",
+        "founderMessage": "致辞",
+        "founderDescription1": "欢迎来到 Dune Rush 探险之旅 —— 每一次沙漠之行都将成为终生难忘的记忆。",
+        "founderDescription2": "作为创始人，我的愿景一直很简单：创造一种将阿联酋沙漠的原始美与刺激、安全和难忘时刻相结合的冒险体验。起初只是对越野激情的热爱，如今已发展成一个全面的探险目的地 —— 提供强大的 ATV、越野摩托、沙漠越野车，甚至宁静的骆驼骑行。",
+        "founderDescription3": "无论您是追求刺激的探险者、寻找乐趣的家庭，还是准备探索的初学者，我们精心设计每一次骑行、路线和旅程，只为您。对我们来说，Dune Rush 不仅是速度 —— 更是冒险精神。",
+        "join": "加入我们，在沙与速之间相遇！",
+        "founderName": "Saqib Aziz Bajwa",
+        "founderDesignation": "创始人兼首席执行官 - Dune Rush 探险之旅",
+        "coFounder": "联合创始人",
+        "coFounderMessage": "致辞",
+        "coFounderDescription1": "在 Dune Rush 探险之旅，我们的使命不仅仅是提供刺激的骑行 —— 更是创造人们永远不会忘记的时刻。",
+        "coFounderDescription2": "作为联合创始人，我亲眼目睹了一个简单的沙漠骑行是如何变成一段终生记忆的。从第一次尝试的骑手到经验丰富的探险者，我们的目标是让每一位客人都感到受欢迎、安全并完全沉浸在冒险之中。我们努力建立的，不仅是一家企业，而是一个社区 —— 一个充满激情、提供优质服务和难忘体验的社区。",
+        "coFounderDescription3": "每一个微笑、每一张照片、每一个在沙丘中欢呼的声音 —— 都是我们每天前进的动力。",
+        "weLook": "期待在沙漠中见到您。",
+        "coFounderName": "Ammar Shahid",
+        "coFounderDesignation": "联合创始人兼首席技术官 - Dune Rush 探险之旅"
+    },
+    "clientSays": {
+        "what": "我们的",
+        "client": "顾客",
+        "says": "评价"
+    },
+    "reviews": {
+        "review1": "评论 1",
+        "review2": "评论 2",
+        "review3": "评论 3",
+        "review4": "评论 4",
+        "review5": "评论 5",
+        "review6": "评论 6",
+        "review7": "评论 7",
+        "review8": "评论 8",
+        "review9": "评论 9",
+        "review10": "评论 10",
+        "review11": "评论 11",
+        "review12": "评论 12",
+        "review13": "评论 13",
+        "review14": "评论 14",
+        "review15": "评论 15"
+    },
+    "names": {
+        "name1": "Abdul Rahman",
+        "name2": "Lina Martin",
+        "name3": "Jayden Steve",
+        "name4": "David Mark",
+        "name5": "M. Zahid",
+        "name6": "Sandra T. 人力资源经理",
+        "name7": "Alex Williams",
+        "name8": "Miller Adams",
+        "name9": "M. Rehan",
+        "name10": "Melissa Mcgrath",
+        "name11": "Ali Kareem",
+        "name12": "Sebastian Doris",
+        "name13": "Bilal Naeem",
+        "name14": "M. Umair",
+        "name15": "Sadiq Shah"
+    },
+    "reviewDescriptions": {
+        "description1": "在沙丘上驾驶就像在玩真实的电子游戏！猛禽车动力强劲，沙尘飞扬，我整个过程都笑个不停。最棒的肾上腺素体验。感谢 Dune Rush Adventure！",
+        "description2": "谁还需要过山车呢？在沙漠里开 Can-Am 越野车就足够刺激了！Dune Rush 团队让整个过程充满乐趣 —— 从刺激到高速驾驶。",
+        "description3": "我和朋友是来打彩弹的，结果一天结束时我们在沙漠里飙摩托，简直像一个沙漠冒险主题公园。感谢 Dune Rush 团队让我们的一天如此难忘精彩！",
+        "description4": "从预订到最后的骑行，一切都非常专业。员工很细心，安全流程很清晰，设备也非常先进。",
+        "description5": "作为一个旅游运营商，我接触过很多供应商。Dune Rush Adventure Tours 给我留下了深刻印象，他们可靠，车辆保养得很好，员工也很有礼貌。强烈推荐给旅行社。",
+        "description6": "Dune Rush 为我们的公司团建活动提供了出色的体验。活动组织得很好，员工非常有条理，环境既安全又刺激。",
+        "description7": "整个过程都很顺利——从预订到我们导游带领的沙丘越野之旅。我特别欣赏他们提供的设备非常干净整洁。",
+        "description8": "服务非常出色，注重细节。团队确保我们舒适，并且向我们做了充分的讲解。你能感受到他们对客户满意度的重视。",
+        "description9": "这次旅行非常特别，员工们竭尽全力让它变得难忘。感谢 Dune Rush！",
+        "description10": "经历了一年压力之后，这是我们所需要的那口清新空气。边驾驶越野车边欣赏沙丘日落，简直是一种疗愈。",
+        "description11": "我的家人从欧洲飞来，这是我们第一次一起的沙漠冒险。看到我父母在越野车上脸上的喜悦让我感动。感谢你们，Dune Rush！",
+        "description12": "超级轻松的氛围。整个地方都充满活力。没有压力，只是在沙地中尽情玩耍。",
+        "description13": "说实话，我起初不知道会发生什么，但最后我爱上了这里的每一分钟。绝对还会再来！我推荐 Dune Rush 给所有喜欢冒险的人。",
+        "description14": "我之前骑过越野摩托车，但在沙漠里骑着 Dune Rush 的摩托完全是另一种体验。赛道刺激，摩托状态很好，教练还给了很棒的技巧。我爱每一秒被尘土包围的时刻。",
+        "description15": "我不仅是为了冒险而来——我还为美景而来。哇，沙漠真的没有让我失望。我骑着四轮摩托，在金色沙丘中穿行，感受那一望无际的宁静……令人难忘。Dune Rush 帮我找到了完美的观景点。"
+    },
+    "getInTouch": {
+        "title": "联系我们",
+        "description": "准备好预订您下一次的沙漠探险，或者在出发前有任何问题吗？我们的团队随时为您提供帮助！无论您是计划一个人的旅程、团体出游，还是正在寻找最佳的越野体验，我们都非常乐意为您服务。欢迎联系我们进行预订、咨询或定制套餐——让我们帮助您在沙丘中创造难忘的时刻。",
+        "contactUs": "立即联系我们，感受激情的开始！",
+        "reservationNumber": "预订号码",
+        "generalInquiry": "一般咨询",
+        "baseLocation": "主要运营基地位置",
+        "locationAddress": "阿联酋沙迦，Al Badayer，工业区1，迪拜-哈塔公路",
+        "contactButton": "联系我们"
+    }
+}

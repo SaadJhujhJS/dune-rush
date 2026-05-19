@@ -1,0 +1,103 @@
+{
+    "aboutUs": {
+        "title": "About Us",
+        "description": "Learn more about our mission, vision, and the team dedicated to delivering exceptional service."
+    },
+    "teamDedicated": {
+        "title1": "Team Dedicated To Delivering",
+        "title2": "Exceptional Service",
+        "description1": "At Dune Rush Adventure Tours, we’re more than just an off-road rental company — we’re passionate desert explorers dedicated to delivering unforgettable experiences. With a love for adventure and a deep respect for the desert's beauty, we offer powerful ATVs, dune buggies, quad bikes, dirt bikes, and camel rides that let you experience the thrill, culture, and serenity of the dunes like never before.",
+        "description2": "Our team is committed to professionalism, safety, and personalized service, ensuring that every ride — whether for a solo adventurer or a group — is handled with care, expertise, and a sense of excitement. From the first engine rev to the last sunset view, we create moments you’ll remember forever.",
+        "bookNow": "Book Now"
+    },
+    "statements": {
+        "missiontitle": "Mission Statement",
+        "missionDescription": "To provide safe, thrilling, and authentic desert adventure experiences through high-quality vehicles, expert guidance, and exceptional customer service — creating lasting memories for every rider.",
+        "visiontitle": "Vision Statement",
+        "visionDescription": "To become the leading name in desert tourism by redefining off-road adventure with innovation, professionalism, and a deep connection to the desert’s spirit — in every trail we blaze across the sands."
+    },
+    "directors": {
+        "founder": "Founder",
+        "founderMessage": "Message",
+        "founderDescription1": "Welcome to Dune Rush Adventure Tours — where every journey into the desert becomes a memory of a lifetime.",
+        "founderDescription2": "As the founder, my vision has always been simple: to create an adventure experience that blends the raw beauty of the UAE desert with excitement, safety, and unforgettable moments. What started as a passion for off-road thrills has grown into a full-scale adventure destination — offering everything from powerful ATVs and dirt bikes to dune buggies, and even serene camel rides.",
+        "founderDescription3": "Whether you’re a thrill-seeker, a family looking for fun, or a first-timer ready to explore, we’ve designed every ride, trail, and tour with you in mind. At Dune Rush, it’s not just about speed — it’s about the spirit of adventure.",
+        "join": "Join us. Where Sand Meets Speed!",
+        "founderName": "Saqib Aziz Bajwa",
+        "founderDesignation": "Founder & CEO - Dune Rush Adventure Tours",
+        "coFounder": "Co-Founder",
+        "coFounderMessage": "Message",
+        "coFounderDescription1": "At Dune Rush Adventure Tours, our mission is more than just offering thrilling rides — it’s about creating moments that people never forget.",
+        "coFounderDescription2": "As the Co-Founder, I’ve seen firsthand how a simple desert ride can turn into a lifelong memory. From the first-time rider to the seasoned explorer, our goal is to make every guest feel welcome, safe, and fully immersed in the adventure. We’ve worked hard to build not just a business, but a community — one fueled by passion, powered by quality service, and driven by unforgettable experiences.",
+        "coFounderDescription3": "Every smile, every photo, every scream of joy in the dunes — that’s what drives us every day.",
+        "weLook": "We look forward to seeing you out there.",
+        "coFounderName": "Ammar Shahid",
+        "coFounderDesignation": "Co-Founder & CTO - Dune Rush Adventure Tours"
+    },
+    "clientSays": {
+        "what": "What Our",
+        "client": "Customers",
+        "says": "Says"
+    },
+    "reviews": {
+        "review1": "Review 1",
+        "review2": "Review 2",
+        "review3": "Review 3",
+        "review4": "Review 4",
+        "review5": "Review 5",
+        "review6": "Review 6",
+        "review7": "Review 7",
+        "review8": "Review 8",
+        "review9": "Review 9",
+        "review10": "Review 10",
+        "review11": "Review 11",
+        "review12": "Review 12",
+        "review13": "Review 13",
+        "review14": "Review 14",
+        "review15": "Review 15"
+    },
+    "names": {
+        "name1": "Abdul Rahman",
+        "name2": "Lina Martin",
+        "name3": "Jayden Steve",
+        "name4": "David Mark",
+        "name5": "M. Zahid",
+        "name6": "Sandra T. HR Manager",
+        "name7": "Alex Williams",
+        "name8": "Miller Adams",
+        "name9": "M. Rehan",
+        "name10": "Melissa Mcgrath",
+        "name11": "Ali Kareem",
+        "name12": "Sebastian Doris",
+        "name13": "Bilal Naeem",
+        "name14": "M. Umair",
+        "name15": "Sadiq Shah"
+    },
+    "reviewDescriptions": {
+        "description1": "Riding through the dunes felt like a real-life video game! The Raptor was powerful, the sand was flying, and I couldn’t stop smiling the whole time. Best adrenaline rush ever. Thank you Dune Rush Adventure.",
+        "description2": "Who needs a roller coaster when you’ve got a Can Am in the desert? The Dune Rush team made the whole thing a blast—from adrenaline to high-speed fun.",
+        "description3": "My friends and I came for the paintball, and ended the day at racing dirt bikes. It was like a desert adventure theme park. Thanks to the Dune Rush and all team for making our day more memorable and fantastic.",
+        "description4": "From booking to the final ride, everything was managed with great professionalism. The staff was attentive, safety procedures were clear, and the equipment was top-notch.",
+        "description5": "As a tour operator, I’ve dealt with many vendors. Dune Rush Adventure Tours impressed me with their reliability, well-maintained vehicles, and courteous team. Highly recommended for travel agencies.",
+        "description6": "Dune Rush delivered an outstanding experience for our corporate team-building event. Activities were well-coordinated, staff was organized, and the environment safe yet exciting.",
+        "description7": "The entire process was smooth and seamless—from the reservation to our guided dune buggy ride. I especially appreciated how clean and ready the equipment was.",
+        "description8": "Excellent service with attention to detail. The team ensured we were comfortable and briefed us properly. You can tell these guys care about customer satisfaction.",
+        "description9": "This trip was special and the staff went above and beyond to make it memorable. Thank you Dune Rush.",
+        "description10": "After a long, stressful year, this was the breath of fresh air we needed. Watching the sunset over the dunes while riding dune buggy was pure therapy.",
+        "description11": "My family flew in from Europe and this was our first desert adventure together. The joy on my parents’ faces during the buggy ride was priceless. Thank you, Dune Rush",
+        "description12": "Super chill vibe. The whole place had full energy to it. No pressure, just good fun in the sand.",
+        "description13": "Honestly, I didn’t know what to expect but I ended up loving every minute. Would totally do it again. And I recommend Dune Rush to every adventure seeker.",
+        "description14": "I’ve ridden dirt bikes before, but doing it in the desert with Dune Rush was something else. The tracks were thrilling, the bikes were in great condition, and the instructor gave solid tips. Loved every dusty second.",
+        "description15": "I wasn’t just here for the adventure—I came for the views. And wow, the desert didn’t disappoint. I ride on Quad bike and the Golden dunes stretching for miles and peaceful silence…unforgettable. Dune Rush made sure I had the perfect spot to take it all in."
+    },
+    "getInTouch": {
+        "title": "Get In Touch With Us",
+        "description": "Ready to book your next desert adventure or have questions before you ride? Our team is here to help! Whether you’re planning a solo trip, a group outing, or just looking for the best off-road experience, we’d love to hear from you. Reach out for bookings, inquiries, or custom packages — and let us help you create unforgettable moments in the dunes.",
+        "contactUs": "Contact us today and feel the rush begin!",
+        "reservationNumber": "Reservation Numbers",
+        "generalInquiry": "General Inquiry",
+        "baseLocation": "Main Operating Base Location",
+        "locationAddress": "Dubai-Hatta Road, Al Badayer, Industrial 1, Sharjah, United Arab Emirates",
+        "contactButton": "Contact Us"
+    }
+}

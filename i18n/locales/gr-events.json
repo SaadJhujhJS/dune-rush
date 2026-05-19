@@ -1,0 +1,28 @@
+{
+    "groupsCorporate": {
+        "title": "Gruppen & Unternehmen",
+        "description": "Stärken Sie den Teamzusammenhalt und fördern Sie die Motivation mit unseren spannenden Gruppen- und Unternehmensaktivitäten – perfekt für Teambuilding, Feiern oder unvergessliche gemeinsame Abenteuer.",
+        "heading": "Wüsten-",
+        "headinghighlight": "Gruppenaktivitäten",
+        "exploreOur": "Entdecken Sie unsere",
+        "eventsMedia": "Eventmedien",
+        "duneRush": "Dune Rush",
+        "adventureTourExperience": "Abenteuer-Tour-Erlebnis",
+        "experienceDescription": "Bei Dune Rush Adventure Tours verwandeln wir die Wüste in Ihren ultimativen Abenteuerspielplatz. Ob Sie über goldene Dünen auf einem leistungsstarken ATV, Buggy oder Dirt Bike rasen – jeder Moment ist darauf ausgelegt, Verbindungen zu stärken und Adrenalin zu entfachen. Unsere Erlebnisse fördern Vertrauen, Teamarbeit und gemeinsame Erfolge – genau wie die besten Momente im Leben und im Beruf. Mit viel Platz, hochwertiger Ausrüstung und erfahrenen Guides sind wir bestens darauf vorbereitet, Gruppen jeder Größe zu empfangen. In einer der ikonischsten Wüstenlandschaften der VAE gelegen, bieten wir eine unvergessliche Auszeit, in der Spannung auf Teambindung trifft."
+    },
+    "birthday": {
+        "title": "Geburtstag",
+        "description": "Feiern Sie Ihren besonderen Tag mit einem unvergesslichen Abenteuer – einzigartige Geburtstagserlebnisse voller Spaß, Spannung und bleibender Erinnerungen für alle Altersgruppen.",
+        "heading": "Kontaktieren Sie uns, um ein",
+        "headinghighlight": "Geburtstagsevent zu buchen",
+        "form": {
+            "name": "Ihr Name",
+            "email": "Geben Sie Ihre E-Mail-Adresse ein",
+            "company": "Firma",
+            "phone": "Telefonnummer",
+            "description": "Beschreibung",
+            "sendMessage": "Nachricht senden",
+            "submitting": "Wird gesendet..."
+        }
+    }
+}

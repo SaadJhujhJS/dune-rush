@@ -1,0 +1,187 @@
+{
+    "dirtBikeRental": {
+        "title": "Dirt Bike Rental",
+        "description": "Experience the thrill of off-road adventure with our guided dirt biking tours through rugged terrain and scenic trails.",
+        "mainHeading": "Unleash The Adventure:",
+        "mainHeadingHighligheted": "Guided Dirt Bike Rental Tours",
+        "tourDuration": "Tour duration:",
+        "seats": "Seats:",
+        "bookNow": "Book Now",
+        "readMore": "Read More",
+        "loadMore": "Load More",
+        "product1": {
+            "title": "Honda CRF Dirt Bike 450cc",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "info": "Book your Honda CRF 450cc Dirt Bike ride today ",
+            "price": "AED 350 (per 30 minutes)"
+        },
+        "product2": {
+            "title": "Husqvarna 450cc Dirt Bike",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "info": "Book the Husqvarna 450cc Dirt Bike now ",
+            "price": "AED 350 (per 30 minutes)"
+        },
+        "product3": {
+            "title": "KTM 450cc Dirt Bike",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "info": "Book your KTM 450cc Dirt Bike now",
+            "price": "AED 350 (per 30 minutes)"
+        },
+        "product4": {
+            "title": "KTM 150cc Dirt Bike",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "info": "Book the KTM 150cc Dirt Bike today",
+            "price": "AED 300 (per 30 minutes)"
+        },
+        "product5": {
+            "title": "Kids KTM 50cc Dirt Bike",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "info": "Book the Kids KTM 50cc Dirt Bike now",
+            "price": "AED 250 (per 30 minutes)"
+        },
+        "product6": {
+            "title": "Progasi 300cc / 450cc Dirt Bike",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "info": "Choose your power — 300cc or 450cc",
+            "price": "AED 300 (per 30 minutes)"
+        },
+        "product7": {
+            "title": "Yamaha YZ 450cc Dirt Bike",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "info": "Book the Yamaha YZ 450cc Dirt Bike now",
+            "price": "AED 350 (per 30 minutes)"
+        }
+    },
+    "duneBuggyTours": {
+        "title": "Dune Buggy Tours",
+        "description": "Buckle Up for the Ultimate Desert Thrill! Hit the Dunes, Feel the Roar — discover the wild side of the Desert with our unforgettable Dune Buggy Adventures.",
+        "mainHeading": "Unleash The Adventure:",
+        "mainHeadingHighligheted": "Guided Dune Buggy Tours",
+        "tourDuration": "Tour duration:",
+        "seats": "Seats:",
+        "bookNow": "Book Now",
+        "readMore": "Read More",
+        "loadMore": "Load More",
+        "product1": {
+            "title": "Can-Am 1000cc (2-Seater)",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 2",
+            "price": "AED 1200 (per 30 minutes)"
+        },
+        "product2": {
+            "title": "Can-Am 1000cc (4-Seater)",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 4",
+            "price": "AED 1400 (per 30 minutes)"
+        },
+        "product3": {
+            "title": "Polaris RZR 800cc (2-Seater)",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 2",
+            "price": "AED 500 (per 30 minutes)"
+        },
+        "product4": {
+            "title": "Polaris RZR 1000cc (1-Seater)",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "price": "AED 400 (per 30 minutes)"
+        },
+        "product5": {
+            "title": "Polaris RZR 1000cc (2-Seater)",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 2",
+            "price": "AED 550 (per 30 minutes)"
+        },
+        "product6": {
+            "title": "Polaris RZR 1000cc (4-Seater)",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 4",
+            "price": "AED 700 (per 30 minutes)"
+        },
+        "product7": {
+            "title": "Polaris Pro-R 2000cc (4-Seater)",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 4",
+            "price": "AED 1800 (per 30 minutes)"
+        },
+        "product8": {
+            "title": "ZForce 1000cc (2-Seater)",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 2",
+            "price": "AED 550 (per 30 minutes)"
+        },
+        "product9": {
+            "title": "ZForce 1000cc (4-Seater) ",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 4",
+            "price": "AED 700 (per 30 minutes)"
+        }
+    },
+    "quadBikingTours": {
+        "title": "Quad Biking Tours",
+        "description": "Explore endless dunes, chase the horizon, and let adrenaline guide you through the Desert on a powerful Quad Bikes built for Adventure.",
+        "mainHeading": "Unleash The Adventure:",
+        "mainHeadingHighligheted": "Guided Quad Biking Tours",
+        "filters": "Filters",
+        "type": "Type",
+        "lorem": "Lorem Ipsum",
+        "timeDuration": "Time Duration",
+        "min": "min",
+        "aed": "AED",
+        "priceRange": "Price Range",
+        "tourDuration": "Tour duration:",
+        "seats": "Seats:",
+        "bookNow": "Book Now",
+        "readMore": "Read More",
+        "loadMore": "Load More",
+        "product1": {
+            "title": "Adly Quad Bike 320cc",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "price": "AED 200 (per 30 minutes)"
+        },
+        "product2": {
+            "title": "Kids Quad Bike 80/100cc",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "price": "AED 150 (per 30 minutes)"
+        },
+        "product3": {
+            "title": "Kymco Quad Bike 250cc",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "price": "AED 150 (per 30 minutes)"
+        },
+        "product4": {
+            "title": "Loncin 230cc Quad Bike",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "price": "AED 150 (per 30 minutes)"
+        },
+        "product5": {
+            "title": "Loncin 300cc Quad Bike",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "price": "AED 150 (per 30 minutes)"
+        },
+        "product6": {
+            "title": "Yoki 450cc Quad Bike",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "price": "AED 250 (per 30 minutes)"
+        },
+        "product7": {
+            "title": "Yamaha Raptor 700cc Quad Bike",
+            "tourDuration": " 30-120 Mins",
+            "seats": " 1",
+            "price": "AED 350 (per 30 minutes)"
+        }
+    }
+}

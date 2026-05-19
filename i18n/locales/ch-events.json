@@ -1,0 +1,28 @@
+{
+    "groupsCorporate": {
+        "title": "团体与企业活动",
+        "description": "通过我们精彩的团体与企业活动增强团队凝聚力、提升士气——非常适合团队建设、庆典或难忘的共享冒险体验。",
+        "heading": "沙漠",
+        "headinghighlight": "团体活动",
+        "exploreOur": "探索我们的",
+        "eventsMedia": "活动媒体",
+        "duneRush": "Dune Rush",
+        "adventureTourExperience": "冒险之旅体验",
+        "experienceDescription": "在 Dune Rush 冒险之旅，我们将沙漠变成了终极的探险游乐场。无论是驾驶强力的 ATV 穿越金色沙丘，还是驾驶沙丘越野车或骑上沙地摩托驰骋，每一刻都旨在增强彼此联系并激发肾上腺素。我们的活动鼓励信任、协作与共同胜利——就像生活和工作中最美好的时刻一样。我们拥有广阔的空间、顶级设备和经验丰富的向导，能够接待各种规模的团体。我们位于阿联酋最具代表性的沙漠景观之一，带来令人难忘的逃离体验，让激情与联结并存。"
+    },
+    "birthday": {
+        "title": "生日",
+        "description": "用一场难忘的冒险庆祝你的特别日子——充满乐趣、刺激和适合所有年龄段的独特生日体验，留下长久回忆。",
+        "heading": "联系我们预订",
+        "headinghighlight": "生日活动",
+        "form": {
+            "name": "您的姓名",
+            "email": "请输入您的邮箱",
+            "company": "公司",
+            "phone": "电话号码",
+            "description": "描述",
+            "sendMessage": "发送消息",
+            "submitting": "正在提交..."
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "dirtBikeRental": {
+        "title": "Аренда внедорожных мотоциклов",
+        "description": "Испытайте острые ощущения от внедорожных приключений с нашими экскурсиями на мотоциклах по пересеченной местности и живописным тропам.",
+        "mainHeading": "Откройте приключение:",
+        "mainHeadingHighligheted": "Экскурсии с арендой внедорожных мотоциклов",
+        "tourDuration": "Продолжительность тура:",
+        "seats": "Места:",
+        "bookNow": "Забронировать сейчас",
+        "readMore": "Подробнее",
+        "loadMore": "Загрузить еще",
+        "product1": {
+            "title": "Honda CRF Внедорожный мотоцикл 450cc",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "info": "Забронируйте поездку на Honda CRF 450cc уже сегодня",
+            "price": "350 AED (за 30 минут)"
+        },
+        "product2": {
+            "title": "Husqvarna 450cc Внедорожный мотоцикл",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "info": "Забронируйте Husqvarna 450cc прямо сейчас",
+            "price": "350 AED (за 30 минут)"
+        },
+        "product3": {
+            "title": "KTM 450cc Внедорожный мотоцикл",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "info": "Забронируйте KTM 450cc прямо сейчас",
+            "price": "350 AED (за 30 минут)"
+        },
+        "product4": {
+            "title": "KTM 150cc Внедорожный мотоцикл",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "info": "Забронируйте KTM 150cc уже сегодня",
+            "price": "300 AED (за 30 минут)"
+        },
+        "product5": {
+            "title": "Детский KTM 50cc Внедорожный мотоцикл",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "info": "Забронируйте детский KTM 50cc прямо сейчас",
+            "price": "250 AED (за 30 минут)"
+        },
+        "product6": {
+            "title": "Progasi 300cc / 450cc Внедорожный мотоцикл",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "info": "Выберите мощность — 300cc или 450cc",
+            "price": "300 AED (за 30 минут)"
+        },
+        "product7": {
+            "title": "Yamaha YZ 450cc Внедорожный мотоцикл",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "info": "Забронируйте Yamaha YZ 450cc прямо сейчас",
+            "price": "350 AED (за 30 минут)"
+        }
+    },
+    "duneBuggyTours": {
+        "title": "Туры на багги по дюнам",
+        "description": "Пристегнитесь для невероятного приключения в пустыне! Покоряйте дюны, почувствуйте рев — откройте дикую сторону пустыни с нашими незабываемыми турами на багги.",
+        "mainHeading": "Откройте приключение:",
+        "mainHeadingHighligheted": "Экскурсии на багги по дюнам с гидом",
+        "tourDuration": "Продолжительность тура:",
+        "seats": "Места:",
+        "bookNow": "Забронировать сейчас",
+        "readMore": "Подробнее",
+        "loadMore": "Загрузить еще",
+        "product1": {
+            "title": "Can-Am 1000cc (2-местный)",
+            "tourDuration": "30-120 минут",
+            "seats": "2",
+            "price": "1200 AED (за 30 минут)"
+        },
+        "product2": {
+            "title": "Can-Am 1000cc (4-местный)",
+            "tourDuration": "30-120 минут",
+            "seats": "4",
+            "price": "1400 AED (за 30 минут)"
+        },
+        "product3": {
+            "title": "Polaris RZR 800cc (2-местный)",
+            "tourDuration": "30-120 минут",
+            "seats": "2",
+            "price": "500 AED (за 30 минут)"
+        },
+        "product4": {
+            "title": "Polaris RZR 1000cc (1-местный)",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "price": "400 AED (за 30 минут)"
+        },
+        "product5": {
+            "title": "Polaris RZR 1000cc (2-местный)",
+            "tourDuration": "30-120 минут",
+            "seats": "2",
+            "price": "550 AED (за 30 минут)"
+        },
+        "product6": {
+            "title": "Polaris RZR 1000cc (4-местный)",
+            "tourDuration": "30-120 минут",
+            "seats": "4",
+            "price": "700 AED (за 30 минут)"
+        },
+        "product7": {
+            "title": "Polaris Pro-R 2000cc (4-местный)",
+            "tourDuration": "30-120 минут",
+            "seats": "4",
+            "price": "1800 AED (за 30 минут)"
+        },
+        "product8": {
+            "title": "ZForce 1000cc (2-местный)",
+            "tourDuration": "30-120 минут",
+            "seats": "2",
+            "price": "550 AED (за 30 минут)"
+        },
+        "product9": {
+            "title": "ZForce 1000cc (4-местный)",
+            "tourDuration": "30-120 минут",
+            "seats": "4",
+            "price": "700 AED (за 30 минут)"
+        }
+    },
+    "quadBikingTours": {
+        "title": "Туры на квадроциклах",
+        "description": "Исследуйте бесконечные дюны, гонитесь за горизонтом и позвольте адреналину вести вас по пустыне на мощных квадроциклах, созданных для приключений.",
+        "mainHeading": "Откройте приключение:",
+        "mainHeadingHighligheted": "Экскурсии на квадроциклах с гидом",
+        "filters": "Фильтры",
+        "type": "Тип",
+        "lorem": "Lorem Ipsum",
+        "timeDuration": "Продолжительность",
+        "min": "мин",
+        "aed": "AED",
+        "priceRange": "Ценовой диапазон",
+        "tourDuration": "Продолжительность тура:",
+        "seats": "Места:",
+        "bookNow": "Забронировать сейчас",
+        "readMore": "Подробнее",
+        "loadMore": "Загрузить еще",
+        "product1": {
+            "title": "Adly Quad 320cc",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "price": "200 AED (за 30 минут)"
+        },
+        "product2": {
+            "title": "Детский квадроцикл 80/100cc",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "price": "150 AED (за 30 минут)"
+        },
+        "product3": {
+            "title": "Kymco Quad 250cc",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "price": "150 AED (за 30 минут)"
+        },
+        "product4": {
+            "title": "Loncin Quad 230cc",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "price": "150 AED (за 30 минут)"
+        },
+        "product5": {
+            "title": "Loncin Quad 300cc",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "price": "150 AED (за 30 минут)"
+        },
+        "product6": {
+            "title": "Yoki Quad 450cc",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "price": "250 AED (за 30 минут)"
+        },
+        "product7": {
+            "title": "Yamaha Raptor Quad 700cc",
+            "tourDuration": "30-120 минут",
+            "seats": "1",
+            "price": "350 AED (за 30 минут)"
+        }
+    }
+}

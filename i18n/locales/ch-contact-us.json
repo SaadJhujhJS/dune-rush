@@ -1,0 +1,39 @@
+{
+  "appHeader": {
+    "title": "联系我们",
+    "description": "有疑问？我们随时为您提供帮助 — 联系我们!"
+  },
+  "contactForm": {
+    "title1": "发送",
+    "title2": "咨询",
+    "formTitle": "联系信息",
+    "description": "准备好预订您的沙漠探险之旅，或是在出发前有任何疑问吗？我们的团队随时为您提供帮助！无论您是计划一个人的旅行、团体出游，还是想寻找最佳的越野体验，我们都非常乐意与您联系。欢迎就预订、咨询或定制套餐与我们沟通 —— 让我们一起在沙丘中创造难忘的回忆。",
+    "reservationNumberLabel": "预订号码",
+    "InquiryLabel": "一般咨询",
+    "locationLabel": "主要运营基地地址",
+    "location": "阿联酋沙迦，工业区1，阿尔巴达耶尔，迪拜-哈塔公路",
+    "socialLinksLabel": "我们的社交链接",
+    "firstNamePlaceHolder": "您的名字",
+    "lastNamePlaceHolder": "您的姓氏",
+    "emailPlaceHolder": "请输入您的电子邮箱",
+    "phoneNoPlaceHolder": "请输入电话号码",
+    "typeOfInquiry": {
+      "typeOfInquiry": "查询类型",
+      "generalInquiry": "一般咨询",
+      "bookingRequest": "预订请求",
+      "groupCorporateBooking": "团体/企业预订",
+      "eventPlanning": "活动策划",
+      "complaintOrFeedback": "投诉或反馈",
+      "lostAndFound": "失物招领",
+      "pickupAndDropoffService": "接送服务",
+      "safetyAndRequirements": "安全与要求",
+      "cancellationOrRescheduling": "取消或重新安排",
+      "paymentAndBillingQuestions": "付款与账单问题",
+      "locationAndDirectionsHelp": "地址与导航帮助"
+    },
+    "messagePlaceHolder": "请输入您的留言",
+    "submitButton": "提交",
+    "submitting": "正在提交...",
+    "error": "请输入有效的电话号码"
+  }
+}

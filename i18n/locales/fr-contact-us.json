@@ -1,0 +1,39 @@
+{
+  "appHeader": {
+    "title": "Contactez-nous",
+    "description": "Une question ? Nous sommes là pour vous aider ! Restons en contact !"
+  },
+  "contactForm": {
+    "title1": "Envoyez-nous",
+    "title2": "Une demande",
+    "formTitle": "Informations de contact",
+    "description": "Prêt à réserver votre prochaine aventure dans le désert ou avez-vous des questions avant votre sortie ? Notre équipe est là pour vous aider ! Que vous planifiez un voyage en solo, une sortie en groupe, ou que vous recherchiez simplement la meilleure expérience tout-terrain, nous serions ravis d’avoir de vos nouvelles. Contactez-nous pour des réservations, des questions ou des forfaits personnalisés — et laissez-nous vous aider à créer des moments inoubliables dans les dunes.",
+    "reservationNumberLabel": "Numéros de réservation",
+    "InquiryLabel": "Demande générale",
+    "locationLabel": "Emplacement de notre base principale",
+    "location": "Dubai-Hatta Road, Al Badayer, Industrial 1, Sharjah, Émirats Arabes Unis",
+    "socialLinksLabel": "Nos réseaux sociaux",
+    "firstNamePlaceHolder": "Votre prénom",
+    "lastNamePlaceHolder": "Votre nom de famille",
+    "emailPlaceHolder": "Entrez votre e-mail",
+    "phoneNoPlaceHolder": "Entrez le numéro de téléphone",
+    "typeOfInquiry": {
+      "typeOfInquiry": "Type de demande",
+      "generalInquiry": "Demande générale",
+      "bookingRequest": "Demande de réservation",
+      "groupCorporateBooking": "Réservation de groupe/entreprise",
+      "eventPlanning": "Organisation d'événements",
+      "complaintOrFeedback": "Réclamation ou commentaire",
+      "lostAndFound": "Objets perdus",
+      "pickupAndDropoffService": "Service de prise en charge et de dépose",
+      "safetyAndRequirements": "Sécurité et exigences",
+      "cancellationOrRescheduling": "Annulation ou reprogrammation",
+      "paymentAndBillingQuestions": "Questions sur le paiement et la facturation",
+      "locationAndDirectionsHelp": "Aide pour la localisation et l'itinéraire"
+    },
+    "messagePlaceHolder": "Tapez votre message",
+    "submitButton": "Soumettre",
+    "submitting": "Envoi en cours...",
+    "error": "Veuillez entrer un numéro de téléphone valide"
+  }
+}

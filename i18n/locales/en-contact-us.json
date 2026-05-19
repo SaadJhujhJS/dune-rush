@@ -1,0 +1,39 @@
+{
+  "appHeader": {
+    "title": "Contact Us",
+    "description": "Have a Query? We’re Here to Help — Let’s Connect!"
+  },
+  "contactForm": {
+    "title1": "Send Us",
+    "title2": "Inquiry",
+    "formTitle": "Contact Information",
+    "description": "Ready to book your next desert adventure or have questions before you ride? Our team is here to help! Whether you’re planning a solo trip, a group outing, or just looking for the best off-road experience, we’d love to hear from you. Reach out for bookings, inquiries, or custom packages — and let us help you create unforgettable moments in the dunes.",
+    "reservationNumberLabel": "Reservation Numbers",
+    "InquiryLabel": "General Inquiry",
+    "locationLabel": "Main Operating Base Location",
+    "location": "Dubai-Hatta Road, Al Badayer, Industrial 1, Sharjah, United Arab Emirates",
+    "socialLinksLabel": "Our Social Links",
+    "firstNamePlaceHolder": "Your First name",
+    "lastNamePlaceHolder": "Your Last name",
+    "emailPlaceHolder": "Enter your Email",
+    "phoneNoPlaceHolder": "Enter phone number",
+    "typeOfInquiry": {
+      "typeOfInquiry": "Type of inquiry",
+      "generalInquiry": "General Inquiry",
+      "bookingRequest": "Booking Request",
+      "groupCorporateBooking": "Group/Corporate Booking",
+      "eventPlanning": "Event Planning",
+      "complaintOrFeedback": "Complaint or Feedback",
+      "lostAndFound": "Lost & Found",
+      "pickupAndDropoffService": "Pickup & Drop-off Service",
+      "safetyAndRequirements": "Safety & Requirements",
+      "cancellationOrRescheduling": "Cancellation or Rescheduling",
+      "paymentAndBillingQuestions": "Payment & Billing Questions",
+      "locationAndDirectionsHelp": "Location & Directions Help"
+    },
+    "messagePlaceHolder": "Type your message",
+    "submitButton": "Submit",
+    "submitting": "Submitting...",
+    "error": "Please, enter a valid phone number"
+  }
+}

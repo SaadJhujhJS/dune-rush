@@ -1,0 +1,39 @@
+{
+  "appHeader": {
+    "title": "تواصل معنا",
+    "description": "لديك استفسار؟ نحن هنا لمساعدتك - تواصل معنا!"
+  },
+  "contactForm": {
+    "title1": "أرسل لنا",
+    "title2": "استفسار",
+    "formTitle": "معلومات الاتصال",
+    "description": "هل أنت مستعد لحجز مغامرتك الصحراوية القادمة أو لديك أسئلة قبل الانطلاق؟ فريقنا هنا لمساعدتك! سواء كنت تخطط لرحلة فردية، أو نزهة جماعية، أو تبحث فقط عن أفضل تجربة للقيادة على الطرق الوعرة، يسعدنا التواصل معك. تواصل معنا للحجوزات أو الاستفسارات أو الباقات المخصصة — ودعنا نساعدك في صنع لحظات لا تُنسى في الكثبان الرملية.",
+    "reservationNumberLabel": "أرقام الحجز",
+    "InquiryLabel": "استفسار عام",
+    "locationLabel": "الموقع الرئيسي للتشغيل",
+    "location": "طريق دبي-حتا، البدير، الصناعية 1، الشارقة، الإمارات العربية المتحدة",
+    "socialLinksLabel": "روابطنا الاجتماعية",
+    "firstNamePlaceHolder": "الاسم الأول",
+    "lastNamePlaceHolder": "اسم العائلة",
+    "emailPlaceHolder": "أدخل بريدك الإلكتروني",
+    "phoneNoPlaceHolder": "أدخل رقم الهاتف",
+    "typeOfInquiry": {
+      "typeOfInquiry": "نوع الاستفسار",
+      "generalInquiry": "استفسار عام",
+      "bookingRequest": "طلب حجز",
+      "groupCorporateBooking": "حجز جماعي / شركات",
+      "eventPlanning": "تنظيم الفعاليات",
+      "complaintOrFeedback": "شكوى أو ملاحظات",
+      "lostAndFound": "المفقودات",
+      "pickupAndDropoffService": "خدمة التوصيل والاستلام",
+      "safetyAndRequirements": "السلامة والمتطلبات",
+      "cancellationOrRescheduling": "إلغاء أو إعادة جدولة",
+      "paymentAndBillingQuestions": "الأسئلة المتعلقة بالدفع والفواتير",
+      "locationAndDirectionsHelp": "مساعدة في الموقع والاتجاهات"
+    },
+    "messagePlaceHolder": "اكتب رسالتك",
+    "submitButton": "إرسال",
+    "submitting": "جارٍ الإرسال...",
+    "error": "من فضلك أدخل رقم هاتف صالح"
+  }
+}

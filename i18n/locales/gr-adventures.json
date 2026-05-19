@@ -1,0 +1,187 @@
+{
+    "dirtBikeRental": {
+        "title": "Motocross Vermietung",
+        "description": "Erleben Sie den Nervenkitzel eines Offroad-Abenteuers mit unseren geführten Motocross-Touren durch raues Gelände und malerische Wege.",
+        "mainHeading": "Entfesseln Sie das Abenteuer:",
+        "mainHeadingHighligheted": "Geführte Motocross-Vermietungstouren",
+        "tourDuration": "Tourdauer:",
+        "seats": "Sitze:",
+        "bookNow": "Jetzt Buchen",
+        "readMore": "Mehr Erfahren",
+        "loadMore": "Mehr Laden",
+        "product1": {
+            "title": "Honda CRF Motocross 450cc",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "info": "Buchen Sie Ihre Honda CRF 450cc Motocross-Fahrt noch heute",
+            "price": "AED 350 (pro 30 Minuten)"
+        },
+        "product2": {
+            "title": "Husqvarna Motocross 450cc",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "info": "Buchen Sie jetzt die Husqvarna 450cc Motocross",
+            "price": "AED 350 (pro 30 Minuten)"
+        },
+        "product3": {
+            "title": "KTM Motocross 450cc",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "info": "Buchen Sie jetzt Ihre KTM 450cc Motocross",
+            "price": "AED 350 (pro 30 Minuten)"
+        },
+        "product4": {
+            "title": "KTM Motocross 150cc",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "info": "Buchen Sie noch heute die KTM 150cc Motocross",
+            "price": "AED 300 (pro 30 Minuten)"
+        },
+        "product5": {
+            "title": "Kinder KTM Motocross 50cc",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "info": "Buchen Sie jetzt die Kinder KTM 50cc Motocross",
+            "price": "AED 250 (pro 30 Minuten)"
+        },
+        "product6": {
+            "title": "Progasi 300cc / 450cc Motocross",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "info": "Wählen Sie Ihre Leistung — 300cc oder 450cc",
+            "price": "AED 300 (pro 30 Minuten)"
+        },
+        "product7": {
+            "title": "Yamaha YZ 450cc Motocross",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "info": "Buchen Sie jetzt die Yamaha YZ 450cc Motocross",
+            "price": "AED 350 (pro 30 Minuten)"
+        }
+    },
+    "duneBuggyTours": {
+        "title": "Dünenbuggy Touren",
+        "description": "Schnallen Sie sich an für den ultimativen Wüstenspaß! Bezwingen Sie die Dünen, spüren Sie das Brüllen — entdecken Sie die wilde Seite der Wüste mit unseren unvergesslichen Dünenbuggy-Abenteuern.",
+        "mainHeading": "Entfesseln Sie das Abenteuer:",
+        "mainHeadingHighligheted": "Geführte Dünenbuggy-Touren",
+        "tourDuration": "Tourdauer:",
+        "seats": "Sitze:",
+        "bookNow": "Jetzt Buchen",
+        "readMore": "Mehr Erfahren",
+        "loadMore": "Mehr Laden",
+        "product1": {
+            "title": "Can-Am 1000cc (2-Sitzer)",
+            "tourDuration": "30-120 Minuten",
+            "seats": "2",
+            "price": "AED 1200 (pro 30 Minuten)"
+        },
+        "product2": {
+            "title": "Can-Am 1000cc (4-Sitzer)",
+            "tourDuration": "30-120 Minuten",
+            "seats": "4",
+            "price": "AED 1400 (pro 30 Minuten)"
+        },
+        "product3": {
+            "title": "Polaris RZR 800cc (2-Sitzer)",
+            "tourDuration": "30-120 Minuten",
+            "seats": "2",
+            "price": "AED 500 (pro 30 Minuten)"
+        },
+        "product4": {
+            "title": "Polaris RZR 1000cc (1-Sitzer)",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "price": "AED 400 (pro 30 Minuten)"
+        },
+        "product5": {
+            "title": "Polaris RZR 1000cc (2-Sitzer)",
+            "tourDuration": "30-120 Minuten",
+            "seats": "2",
+            "price": "AED 550 (pro 30 Minuten)"
+        },
+        "product6": {
+            "title": "Polaris RZR 1000cc (4-Sitzer)",
+            "tourDuration": "30-120 Minuten",
+            "seats": "4",
+            "price": "AED 700 (pro 30 Minuten)"
+        },
+        "product7": {
+            "title": "Polaris Pro-R 2000cc (4-Sitzer)",
+            "tourDuration": "30-120 Minuten",
+            "seats": "4",
+            "price": "AED 1800 (pro 30 Minuten)"
+        },
+        "product8": {
+            "title": "ZForce 1000cc (2-Sitzer)",
+            "tourDuration": "30-120 Minuten",
+            "seats": "2",
+            "price": "AED 550 (pro 30 Minuten)"
+        },
+        "product9": {
+            "title": "ZForce 1000cc (4-Sitzer)",
+            "tourDuration": "30-120 Minuten",
+            "seats": "4",
+            "price": "AED 700 (pro 30 Minuten)"
+        }
+    },
+    "quadBikingTours": {
+        "title": "Quad-Touren",
+        "description": "Erkunden Sie endlose Dünen, jagen Sie dem Horizont nach und lassen Sie sich von Adrenalin durch die Wüste auf kraftvollen Quads führen, die für Abenteuer gebaut sind.",
+        "mainHeading": "Entfesseln Sie das Abenteuer:",
+        "mainHeadingHighligheted": "Geführte Quad-Touren",
+        "filters": "Filter",
+        "type": "Typ",
+        "lorem": "Lorem Ipsum",
+        "timeDuration": "Dauer",
+        "min": "Minuten",
+        "aed": "AED",
+        "priceRange": "Preisspanne",
+        "tourDuration": "Tourdauer:",
+        "seats": "Sitze:",
+        "bookNow": "Jetzt Buchen",
+        "readMore": "Mehr Erfahren",
+        "loadMore": "Mehr Laden",
+        "product1": {
+            "title": "Adly Quad 320cc",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "price": "AED 200 (pro 30 Minuten)"
+        },
+        "product2": {
+            "title": "Kinder Quad 80/100cc",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "price": "AED 150 (pro 30 Minuten)"
+        },
+        "product3": {
+            "title": "Kymco Quad 250cc",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "price": "AED 150 (pro 30 Minuten)"
+        },
+        "product4": {
+            "title": "Loncin Quad 230cc",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "price": "AED 150 (pro 30 Minuten)"
+        },
+        "product5": {
+            "title": "Loncin Quad 300cc",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "price": "AED 150 (pro 30 Minuten)"
+        },
+        "product6": {
+            "title": "Yoki Quad 450cc",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "price": "AED 250 (pro 30 Minuten)"
+        },
+        "product7": {
+            "title": "Yamaha Raptor Quad 700cc",
+            "tourDuration": "30-120 Minuten",
+            "seats": "1",
+            "price": "AED 350 (pro 30 Minuten)"
+        }
+    }
+}
